@@ -1,0 +1,318 @@
+# KNTQ dashboard assumptions
+#
+# Every constant has: value, source, retrieved (date checked), confidence.
+# confidence is one of: high, moderate, low, UNVERIFIED.
+# "alt" is the alternative figure where sources conflict; the model uses "value".
+# Edit a value here and the page picks it up; a malformed edit is rejected by the tests.
+
+supply:
+  max_supply_kntq:
+    value: 1000000000
+    source: https://kinetiq.xyz/docs/kntq
+    retrieved: 2026-11-11
+    confidence: high
+  genesis_utc:
+    value: "2025-11-27T11:36:17Z"
+    source: Hyperliquid userNonFundingLedgerUpdates for the deployer (spotGenesis entry)
+    retrieved: 2026-11-11
+    confidence: high
+
+model:
+  start_utc:
+    value: "2026-11-10T17:00:00Z" # 11 Nov 2026 00:00 ICT
+    source: Brief section 4 (decided)
+    retrieved: 2026-11-11
+    confidence: high
+  pre_unlock_smoothing_days:
+    value: 30
+    source: Brief section 4 (30 = days from 27 Nov to 27 Dec)
+    retrieved: 2026-11-11
+    confidence: high
+  unlock_smoothing_days:
+    value: 30
+    source: Brief section 4 (30-day smoothed rate)
+    retrieved: 2026-11-11
+    confidence: high
+  run_rate_days:
+    value: 30
+    source: Brief section 8
+    retrieved: 2026-11-11
+    confidence: high
+  crossover_horizon_years:
+    value: 10
+    source: Model choice. A crossover later than this many years after the last tranche is reported as none.
+    retrieved: 2026-11-11
+    confidence: high
+
+vesting:
+  contributors_kntq:
+    value: 235000000
+    source: HyperEVM transfer from the deployer at genesis; 23.5% allocation in Kinetiq docs
+    retrieved: 2026-11-11
+    confidence: high
+  investors_kntq:
+    value: 75000000
+    source: HyperEVM transfer from the deployer at genesis; 7.5% allocation in Kinetiq docs
+    retrieved: 2026-11-11
+    confidence: high
+  tranche_count:
+    value: 24
+    source: https://kinetiq.xyz/docs/kntq ("2-year monthly linear vesting following the cliff")
+    retrieved: 2026-11-11
+    confidence: high
+  first_tranche_utc:
+    value: "2026-11-27T11:36:17Z" # 27 Nov 2026 18:36 ICT: one year after the genesis transaction
+    alt: "2026-12-27T11:36:17Z" # if the first monthly release comes a month after the cliff
+    source: Derived. Kinetiq docs give only "Cliff 1 year"; there is no vesting contract on-chain. See DATA_SOURCES.md section 4.
+    retrieved: 2026-11-11
+    confidence: UNVERIFIED
+
+wallets:
+  contributors:
+    value: "0x373e0b6b57818ac2bb3a3e55e31128d5f880d90e"
+    chain: hyperevm
+    source: On-chain. Label inferred from the 235,000,000 genesis transfer and CoinGecko's circulating-supply reconciliation.
+    retrieved: 2026-11-11
+    confidence: high
+  investors:
+    value: "0x9ef3b3a49ee9a2fd28a10f6e9407219e7ceca1a2"
+    chain: hyperevm
+    source: On-chain. Label inferred from the 75,000,000 genesis transfer.
+    retrieved: 2026-11-11
+    confidence: high
+  foundation:
+    value: "0xf50ad63714f10f4e96eeabd43d549c8232992b36"
+    chain: hyperevm
+    baseline_kntq: 100000000
+    source: On-chain. Label inferred from the 100,000,000 genesis transfer. Baseline is the balance at model start.
+    retrieved: 2026-11-11
+    confidence: high
+  growth:
+    value: "0x5bd9e766c0151dcfbc4246e5f8b3193c4beeaae4"
+    chain: hyperevm
+    baseline_kntq: 256499687.80013824
+    source: On-chain. Label inferred from the 300,000,000 genesis transfer. Baseline is the balance at model start (last outflow before it was 8 Nov 2026).
+    retrieved: 2026-11-11
+    confidence: high
+  deployer:
+    value: "0x51172933b60847085e2a959e860e2ec9e240ac09"
+    chain: hypercore
+    source: Hyperliquid tokenDetails (deployer field)
+    retrieved: 2026-11-11
+    confidence: high
+  buyback:
+    value: "0xaa3b7392052d62928cc87701e3ca6fb6630bb6e2"
+    chain: hypercore
+    source: On-chain behaviour (sells HYPE, buys KNTQ, sends to the AF). Not published by Kinetiq.
+    retrieved: 2026-11-11
+    confidence: moderate
+  kpoints_claim:
+    value: "0x435bb7ea4eb481cb686606d089ea4dee4c6cc03b"
+    chain: hyperevm
+    source: https://kinetiq.xyz/docs/contracts-and-audits (listed as CKNTQ); on-chain claim transfers
+    retrieved: 2026-11-11
+    confidence: high
+
+# Burn sinks. Total burned is the sum of these balances and nothing else.
+sinks:
+  hypercore_af:
+    value: "0xfefefefefefefefefefefefefefefefefefefefe"
+    chain: hypercore
+    source: https://kinetiq.xyz/docs/kntq
+    retrieved: 2026-11-11
+    confidence: high
+  elysium_dead:
+    value: "0x000000000000000000000000000000000000dead"
+    chain: elysium
+    source: Conventional burn address; balance read from the Elysium RPC
+    retrieved: 2026-11-11
+    confidence: high
+
+# Which sender into a sink counts as which burn source.
+attribution:
+  fees:
+    value: ["0x51172933b60847085e2a959e860e2ec9e240ac09"]
+    source: Deployer forwards KNTQ spot trading fees (deployerTradingFeeShare = 1.0)
+    retrieved: 2026-11-11
+    confidence: high
+  protocol_buyback:
+    value: ["0xaa3b7392052d62928cc87701e3ca6fb6630bb6e2"]
+    source: Buyback wallet behaviour on-chain
+    retrieved: 2026-11-11
+    confidence: moderate
+  kip5_transition:
+    value: ["0xbcd4071d023bf2aae484d724c130b5af6f0ca0d2", "0x696238e0ca31c94e24ca4cbe7921754e172e4d0f"]
+    source: One-off transfers on 15 Sep 2026 (KIP-5 day); the second address is the sKNTQ token contract
+    retrieved: 2026-11-11
+    confidence: moderate
+
+tokens:
+  kntq_hypercore_token_id:
+    value: "0xbd31bd605c0a1b82c72aae3587f9061f"
+    source: Hyperliquid spotMeta
+    retrieved: 2026-11-11
+    confidence: high
+  kntq_spot_pair:
+    value: "@334"
+    source: Hyperliquid spotMeta (KNTQ/USDC). tokenDetails markPx comes from the dead USDH pair; do not use it.
+    retrieved: 2026-11-11
+    confidence: high
+  hype_spot_pair:
+    value: "@107"
+    source: Hyperliquid spotMeta (HYPE/USDC)
+    retrieved: 2026-11-11
+    confidence: high
+  kntq_hyperevm:
+    value: "0x000000000000780555bd0bca3791f89f9542c2d6"
+    source: Hyperliquid spotMeta; https://kinetiq.xyz/docs/contracts-and-audits
+    retrieved: 2026-11-11
+    confidence: high
+  kntq_elysium:
+    value: "0xe45a355d9e9cad2ad85f2d03e3ee3102a036acf0"
+    source: HyperEVM gateway router calculateL2TokenAddress; Elysium bridging docs
+    retrieved: 2026-11-11
+    confidence: high
+
+sell_through:
+  global:
+    value: 1.0
+    source: Brief section 4 (default 100%, worst case)
+    retrieved: 2026-11-11
+    confidence: high
+  # Per-source overrides. Leave empty to use the global figure.
+  overrides:
+    value: {}
+    source: Brief section 4
+    retrieved: 2026-11-11
+    confidence: high
+
+scenarios:
+  bear:
+    value: 0.25
+    source: Brief section 6
+    retrieved: 2026-11-11
+    confidence: high
+  base:
+    value: 1.0
+    source: Brief section 6
+    retrieved: 2026-11-11
+    confidence: high
+  bull:
+    value: 3.0
+    source: Brief section 6
+    retrieved: 2026-11-11
+    confidence: high
+
+sequencer:
+  fee_account:
+    value: "0x6cbb552855ce5eb70af49b76a8048be8e3799a05"
+    source: Elysium ArbOwnerPublic.getNetworkFeeAccount()
+    retrieved: 2026-11-11
+    confidence: high
+  kntq_share:
+    value: 0.5
+    source: https://kinetiq.xyz/docs/kntq ("50% of sequencer revenue programmatically buys KNTQ")
+    retrieved: 2026-11-11
+    confidence: high
+  burned_share:
+    value: 1.0
+    source: https://kinetiq.xyz/blog/elysium-hyperliquid-l2 (read by research helper, not re-checked)
+    retrieved: 2026-11-11
+    confidence: moderate
+
+# Partners. commitment = share of the stated revenue base that buys KNTQ.
+# burned_share = share of the KNTQ bought that is burned.
+# benchmark_revenue_usd_per_day stays null until a sourced benchmark is recorded; null means "No data", not zero.
+partners:
+  ascend:
+    commitment: 0.72 # 90% of protocol fees to buybacks x 80% of buybacks to KNTQ
+    burned_share: 0.4
+    alt_burned_share: 0.6 # Elysium ecosystem page; contradicted by the GitBook and the on-chain 40/60 split
+    revenue_base: protocol fees
+    burn_treasury: "0xfe9846f8bcc99717547f4c0d18b7801f159aa621"
+    ecosystem_allocator: "0xee60f5c319f57a82b868651a2f996bb99c5a3d89"
+    benchmark_revenue_usd_per_day: null
+    source: https://ascendlaunch.gitbook.io/docs/protocol-economics/protocol-revenue-allocation
+    retrieved: 2026-11-11
+    confidence: high
+  oku:
+    commitment: 0.3
+    alt_commitment: 0.4 # Kinetiq announcement of 7 Nov per news reports
+    burned_share: 1.0
+    revenue_base: Elysium revenue
+    benchmark_revenue_usd_per_day: null
+    source: https://kinetiq.xyz/api/kntq-data/ecosystem-buybacks
+    retrieved: 2026-11-11
+    confidence: moderate
+  banana-gun:
+    commitment: 0.4
+    burned_share: 1.0
+    revenue_base: net trading revenue
+    benchmark_revenue_usd_per_day: null
+    source: https://kinetiq.xyz/api/kntq-data/ecosystem-buybacks
+    retrieved: 2026-11-11
+    confidence: moderate
+  dawn:
+    commitment: 0.4
+    burned_share: 0.5
+    revenue_base: net revenue generated on Elysium
+    benchmark_revenue_usd_per_day: null
+    source: https://elysium.kinetiq.xyz/ecosystem/dawn ("50% burned, 50% airdropped to users")
+    retrieved: 2026-11-11
+    confidence: moderate
+  windup:
+    commitment: 0.5
+    burned_share: 1.0
+    revenue_base: all revenue
+    benchmark_revenue_usd_per_day: null
+    source: https://kinetiq.xyz/api/kntq-data/ecosystem-buybacks
+    retrieved: 2026-11-11
+    confidence: moderate
+  cove:
+    commitment: 0.2
+    burned_share: 1.0
+    revenue_base: net revenue
+    benchmark_revenue_usd_per_day: null
+    source: https://kinetiq.xyz/api/kntq-data/ecosystem-buybacks
+    retrieved: 2026-11-11
+    confidence: moderate
+  elysium-name-service-ely:
+    commitment: 0.5
+    burned_share: 1.0
+    revenue_base: protocol revenue
+    benchmark_revenue_usd_per_day: null
+    source: https://elysium.kinetiq.xyz/ecosystem/elysium-name-service-ely ("100% burned")
+    retrieved: 2026-11-11
+    confidence: moderate
+  nest:
+    commitment: 0.7
+    burned_share: 0.0 # distributed to protocol stakers: buy pressure plus an incentive payout
+    revenue_base: protocol revenue
+    benchmark_revenue_usd_per_day: null
+    source: https://elysium.kinetiq.xyz/ecosystem/nest
+    retrieved: 2026-11-11
+    confidence: moderate
+  oxley:
+    commitment: 0.25
+    burned_share: 0.0 # deployed in DeFi strategies: buy pressure only
+    revenue_base: revenue
+    benchmark_revenue_usd_per_day: null
+    source: https://elysium.kinetiq.xyz/ecosystem/oxley
+    retrieved: 2026-11-11
+    confidence: moderate
+  boxa:
+    commitment: 0.05
+    burned_share: 0.0
+    revenue_base: protocol revenue
+    benchmark_revenue_usd_per_day: null
+    source: Third-party X post cited in the brief. No primary source found; excluded from every total.
+    retrieved: 2026-11-11
+    confidence: UNVERIFIED
+  hyperbook:
+    commitment: 0.0
+    burned_share: 0.0
+    revenue_base: pass-through (USDC to KNTQ to HBOOK)
+    benchmark_revenue_usd_per_day: null
+    source: Third-party X post cited in the brief. No primary source found; excluded from every total.
+    retrieved: 2026-11-11
+    confidence: UNVERIFIED

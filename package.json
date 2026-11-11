@@ -1,0 +1,28 @@
+{
+  "name": "kntq-dashboard",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "today": "tsx src/cli/today.ts",
+    "collect": "tsx src/collector/cli.ts collect",
+    "daily": "tsx src/collector/cli.ts daily",
+    "weekly": "tsx src/collector/cli.ts weekly",
+    "rebuild": "tsx src/collector/cli.ts rebuild",
+    "backfill": "tsx src/collector/backfill.ts"
+  },
+  "dependencies": {
+    "yaml": "^2.9.1"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2",
+    "vitest": "^5.1.0"
+  }
+}

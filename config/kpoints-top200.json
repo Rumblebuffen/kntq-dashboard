@@ -1,0 +1,808 @@
+{
+ "source": "Transfers out of the kPoints claim contract 0x435bb7ea4eb481cb686606d089ea4dee4c6cc03b on HyperEVM, 1–12 Oct 2026",
+ "generated": "2026-11-11",
+ "claimants": 5239,
+ "totalClaimed": 33710461.04167022,
+ "wallets": [
+  {
+   "address": "0x9794bbbc222b6b93c1417d01aa1ff06d42e5333b",
+   "claimed": 1422137.39458086
+  },
+  {
+   "address": "0x63af859d7b4717bd4d3705f15b6d4caad6cf4b36",
+   "claimed": 1063938.12169909
+  },
+  {
+   "address": "0xbd8c75a0f55b5dc4df64297d6f67626e247d971d",
+   "claimed": 996417.96642332
+  },
+  {
+   "address": "0x9f58a3c3c5adb4513f7606c999a75ebb15691dfb",
+   "claimed": 919443.28751853
+  },
+  {
+   "address": "0xd782059de58ebe238592198b97f10e77a1eb6ca7",
+   "claimed": 809285.0704218801
+  },
+  {
+   "address": "0x29a37ab233beb9e147c1319b53329a566c4991b2",
+   "claimed": 668168.71399489
+  },
+  {
+   "address": "0x0b83821bb8b9d19582af26122556be7408313140",
+   "claimed": 612530.89092016
+  },
+  {
+   "address": "0xd507eeef2152d54b8c00cba499340f7b7a59c948",
+   "claimed": 586495.61597676
+  },
+  {
+   "address": "0xcc6bf6bf938bdbe1aaa6bc936494b1eee5037c75",
+   "claimed": 520731.92660238
+  },
+  {
+   "address": "0x14a2cf7a40da8dc1ef904615c0234e6ffca880a1",
+   "claimed": 490208.15138583
+  },
+  {
+   "address": "0x64b3bf0cec2e37ae6dbca5919c90b83c6800d0d4",
+   "claimed": 460263.16234246
+  },
+  {
+   "address": "0xc2d8102dc87335c90fbd57bfc7361951b3e554fb",
+   "claimed": 443584.13186957
+  },
+  {
+   "address": "0x4801af178dd07390941931c7e6f82b61a4344a0b",
+   "claimed": 422319.3224468
+  },
+  {
+   "address": "0x0bf30ce317c09d8d1415dbae993b216ee1bfa09a",
+   "claimed": 379776.09603947005
+  },
+  {
+   "address": "0xbb0b246f7f7c301da8484252e366b2349165e110",
+   "claimed": 371821.54590372
+  },
+  {
+   "address": "0x418769f79771aae38d7cd4911543b03976b2c925",
+   "claimed": 362115.63509607996
+  },
+  {
+   "address": "0xc5ed4501500fcbfb2b88fb7f0aa52f834ed44346",
+   "claimed": 360376.24396208
+  },
+  {
+   "address": "0x8ec7f8e9672c76c798755b35ee24280f1e7105d0",
+   "claimed": 355129.4068363
+  },
+  {
+   "address": "0xeeb56331b6a250fe2dbc123f08bdb87aa9840464",
+   "claimed": 343807.72446594
+  },
+  {
+   "address": "0xb2e27551c7895e35acd1a6b2957d71a89eb9377c",
+   "claimed": 326454.08284245
+  },
+  {
+   "address": "0x8c35b0b65fc680dac8719b79d01b4c46590d4d8b",
+   "claimed": 292212.21813913
+  },
+  {
+   "address": "0x77375a8c9d13bf79afb2a87f1b0ac1dfd5f5bf66",
+   "claimed": 268875.35480333
+  },
+  {
+   "address": "0x6bb8a80a8fb5fc88ea25e466b32a322d17e56966",
+   "claimed": 243267.7735023
+  },
+  {
+   "address": "0xc6877a65349b0fa45cc61a267ee682c7abf2b369",
+   "claimed": 230145.52065523
+  },
+  {
+   "address": "0x8dea9139b0e84d5cc2933072f5ba43c2b043f6db",
+   "claimed": 215542.70781734
+  },
+  {
+   "address": "0xb8fb427a45c832c5dac625aa7bfad720ca8c28a6",
+   "claimed": 188788.88245069
+  },
+  {
+   "address": "0xaf0fdd39e5d92499b0ed9f68693da99c0ec1e92e",
+   "claimed": 167981.81627759
+  },
+  {
+   "address": "0x37de2f99bf85ebc078cfcfe6bbc6b58f5d8c0b65",
+   "claimed": 166245.87208913
+  },
+  {
+   "address": "0x6e93ebc8302890ff1d1befd779d1db131ef30d4d",
+   "claimed": 162146.19357221
+  },
+  {
+   "address": "0x9ea9f8d0697672dd2a504c3ae4f85eee67c5b4e4",
+   "claimed": 154643.77445404
+  },
+  {
+   "address": "0x57f2819c959abbcf22623d5ec1d3164b213e9711",
+   "claimed": 149136.48465183
+  },
+  {
+   "address": "0x2e4a4d6736ae0487b85ada66210e3d889b3e02fa",
+   "claimed": 147786.52073846
+  },
+  {
+   "address": "0x8f8b4759dc93ca55bd6997df719f20f581f10f5c",
+   "claimed": 144078.00047157
+  },
+  {
+   "address": "0xa9cec42cddfc2a6239a96f4129e4c6956d1f3ef4",
+   "claimed": 143228.48845856002
+  },
+  {
+   "address": "0x7b14dc7d87b2ab9f54ac54553efd8b32c29f2ece",
+   "claimed": 138159.35579476
+  },
+  {
+   "address": "0x825714bae8bd60162bb14a04bb2183d00b3d00c9",
+   "claimed": 136291.5776374
+  },
+  {
+   "address": "0xe2cc27bf177079fd13dfe86cef913b77224ddc4a",
+   "claimed": 135645.52524496
+  },
+  {
+   "address": "0xbdfa4f4492dd7b7cf211209c4791af8d52bf5c50",
+   "claimed": 130771.08654622
+  },
+  {
+   "address": "0xbbfb6566ad064c233af6314aeb1eee4c26a5f921",
+   "claimed": 129614.21111801
+  },
+  {
+   "address": "0x5dbf5b3bdf277d8e1e5aaa9343e4410f4c1bbb1b",
+   "claimed": 125931.55238486001
+  },
+  {
+   "address": "0x468fb194f44259ec10c016eb8eeaccef1d35ffbe",
+   "claimed": 117477.47440183
+  },
+  {
+   "address": "0x7648cd14da5d391422e5d7509313cec3d309f4a3",
+   "claimed": 117159.4018681
+  },
+  {
+   "address": "0xed01eec66dbbbd05fd43f2b340614dc7b62786ce",
+   "claimed": 105415.71120147
+  },
+  {
+   "address": "0x1da722cfa8b0dfda57cf8d787689039c7a63f049",
+   "claimed": 105089.93115405
+  },
+  {
+   "address": "0x8fdbd50e88ab3624263ff888861f202e0dd0b9c2",
+   "claimed": 104729.77466045
+  },
+  {
+   "address": "0xc7e92a105b734987f32f8af9856a5ba8c5183089",
+   "claimed": 103372.29569754
+  },
+  {
+   "address": "0x603b8268c8a8cf5127b3a4eb3de6a1b5f5d8b9d2",
+   "claimed": 102648.28895155
+  },
+  {
+   "address": "0xaf1dfdd58edbb7fdf18315db5bfcfd2c8a261e22",
+   "claimed": 102600.58440585999
+  },
+  {
+   "address": "0x8aed145c9206808766ad816112f9ae6d9ba31849",
+   "claimed": 101846.87560927999
+  },
+  {
+   "address": "0x05e6ffff89d05b7ed820dfedb665e430252c8132",
+   "claimed": 101467.67512679
+  },
+  {
+   "address": "0xdb93342558502d4f522e774eac55d71bff8e6130",
+   "claimed": 100401.94837949
+  },
+  {
+   "address": "0x6d7823cd5c3d9dcd63e6a8021b475e0c7c94b291",
+   "claimed": 99529.77960336
+  },
+  {
+   "address": "0x1140321cce279b4a2158571eb377669def562ac4",
+   "claimed": 96672.83074311
+  },
+  {
+   "address": "0x35b9f17ce568112fea7e82cc444c3fe2b821b8f2",
+   "claimed": 95489.65752877
+  },
+  {
+   "address": "0xcbd6b0dee49eea88a3343ff4e5a2423586b4c1d6",
+   "claimed": 95413.95799957
+  },
+  {
+   "address": "0x7258d00a24d6829ac4bf355127bfbc9e2303aed4",
+   "claimed": 89492.68415732
+  },
+  {
+   "address": "0x789b89e6d58d7f6b08212bda6a7d8e62b39ff866",
+   "claimed": 88794.91975249
+  },
+  {
+   "address": "0xa625e8ae74d928b9284ef9552058ddae9f5f8972",
+   "claimed": 88757.86013182
+  },
+  {
+   "address": "0x30c2c8f1ded4f17873aa625b21cf1b7f31829cbe",
+   "claimed": 86925.25115179
+  },
+  {
+   "address": "0x7da85a334e43a6b1c2c0da9623409d9ee9047747",
+   "claimed": 86812.57756061
+  },
+  {
+   "address": "0xf332644ad212251bac9b27134416e790167552fd",
+   "claimed": 85691.85963792
+  },
+  {
+   "address": "0xdd0fa61baff56c7fc72dd7fa1edad340908d2470",
+   "claimed": 83724.75133734998
+  },
+  {
+   "address": "0x21631f6fd0b8c3bf02d889bacea679fca93cd555",
+   "claimed": 81552.66323839
+  },
+  {
+   "address": "0x2a6e295228e86044053ff77bdefea82dbb2a4f30",
+   "claimed": 81132.24022466
+  },
+  {
+   "address": "0x3c446431dd0fa13af97f904c00dc34fb7a198dba",
+   "claimed": 80688.05805105
+  },
+  {
+   "address": "0x69423c20cb04da697996534507f8541fdb3e9aa9",
+   "claimed": 80239.55564782
+  },
+  {
+   "address": "0xab27d7e32cf554e927e339c9e2075cce14801b29",
+   "claimed": 79109.00789599
+  },
+  {
+   "address": "0x380feea870db5edd638a8fe78a271fa6e707826f",
+   "claimed": 78410.57234401001
+  },
+  {
+   "address": "0x0871deb34bfd2052b1c10dc4f6c0912a2a47e927",
+   "claimed": 78168.53480162
+  },
+  {
+   "address": "0x6b3fdc549c3253a14bcbc6789e1eabd742162647",
+   "claimed": 77989.13178512
+  },
+  {
+   "address": "0x74195b12c91f89cbcad71501d14a03760f4aad76",
+   "claimed": 77158.84642862
+  },
+  {
+   "address": "0xd418224ae3c510b645112fd9275ccfd50f996ee4",
+   "claimed": 76753.76659605
+  },
+  {
+   "address": "0x126ff595c723e0394ff44503c8019a50942f717a",
+   "claimed": 74701.98965682
+  },
+  {
+   "address": "0x69906b0ed626ca01a4b7c001e5711e5714ccf207",
+   "claimed": 74452.30665123
+  },
+  {
+   "address": "0x75ec3ba266176e733f1b1fdaa15052f5eff724b8",
+   "claimed": 74202.08695913
+  },
+  {
+   "address": "0x16be0743c09f9d3a8075b386034c067b322e50af",
+   "claimed": 73981.57925335
+  },
+  {
+   "address": "0x6891ed9ee6a9d0649ffac2bcee814e6899a0e075",
+   "claimed": 73538.10520396
+  },
+  {
+   "address": "0x015e39316feeee42f363d69e2c0b438c2206a0f4",
+   "claimed": 73097.74337736
+  },
+  {
+   "address": "0x84a73d875b79332b278f1785628d1a2381580be4",
+   "claimed": 69927.2479718
+  },
+  {
+   "address": "0xf763d7c28ce6a5df1068fdda9627ae19dff65dee",
+   "claimed": 67128.67311594
+  },
+  {
+   "address": "0x4bdfd3ce7bfb07b75a2a59a8f723910dd7147b9c",
+   "claimed": 66988.21987115
+  },
+  {
+   "address": "0x1f213c8a5683b22579d7fac320b49466ce7f020f",
+   "claimed": 64370.077847789995
+  },
+  {
+   "address": "0xcab397d10543c990fdecb66a9485c9bd90612640",
+   "claimed": 64152.71974323
+  },
+  {
+   "address": "0x702d5cbdd54d16a25b8db4c4ddcd096720944c4b",
+   "claimed": 61939.54527767
+  },
+  {
+   "address": "0xe4cc23c54ae4974edfc7d15c712e1f74f8cbc04c",
+   "claimed": 61465.81056421
+  },
+  {
+   "address": "0x2a3f493d1511cf2ff501e266f373a4ceb1769ac3",
+   "claimed": 60667.85031676001
+  },
+  {
+   "address": "0xff4645d7898436fca56e4ad5840a06442366698a",
+   "claimed": 60593.93419996
+  },
+  {
+   "address": "0x3d5e4af8ef2fb321f4cf35475e75172155bdbfdf",
+   "claimed": 60414.87631068
+  },
+  {
+   "address": "0x77598b02f0d862652c5b44fe363977841fd3d00d",
+   "claimed": 59346.71970696001
+  },
+  {
+   "address": "0x92ae4209e3a5760903aff0c423312392eb3f86a8",
+   "claimed": 59046.63334407
+  },
+  {
+   "address": "0xc0bdfc57abba5537f30ce2bb2d52abf39f5109ee",
+   "claimed": 58385.51708713001
+  },
+  {
+   "address": "0x71fd7b787fdf82a17b724a356c6dd3092b881c6a",
+   "claimed": 57430.13348771
+  },
+  {
+   "address": "0x4f979e912d035d9ad0abdf8c17e5b7a5a180762b",
+   "claimed": 55920.20011078
+  },
+  {
+   "address": "0x6f58f37e1a6cdc2cdf1ba85c706923b9d5f8efb0",
+   "claimed": 54870.60527776
+  },
+  {
+   "address": "0x64784f0b0114a4ef466803ac810d95257f3aa009",
+   "claimed": 53236.41114281
+  },
+  {
+   "address": "0x75632aaf83120eae9b0618f8f50773ce347de2ad",
+   "claimed": 52276.64899888
+  },
+  {
+   "address": "0x6b8704e714203e4d35035ff81f70f60dec021e86",
+   "claimed": 52184.46570641
+  },
+  {
+   "address": "0x28c01b64f2492d82fd58feecf8c71603c769bb4a",
+   "claimed": 51832.22785105
+  },
+  {
+   "address": "0xc2551b8d544e43a1dbb5822a18d740b228b8b368",
+   "claimed": 51197.21695213
+  },
+  {
+   "address": "0xff2396a671e58c0eced4cadb78ff72da18b0527f",
+   "claimed": 50042.77443123
+  },
+  {
+   "address": "0x659636f7c3da8721f5feba898a5cd13aa33e7203",
+   "claimed": 49907.02881322
+  },
+  {
+   "address": "0xceec48581b3145a575508719f45da07dc57fa7ce",
+   "claimed": 49615.50032538
+  },
+  {
+   "address": "0xa38f19c4ccbcfd64cff676d72c436f7e6239dccf",
+   "claimed": 49414.16510512
+  },
+  {
+   "address": "0x736dde3e0f5c588ddc53ad7f0f65667c0cca2801",
+   "claimed": 48709.07979533
+  },
+  {
+   "address": "0x707da8231e11f169d0f5f644ca423c0f4581c90c",
+   "claimed": 47523.04718909
+  },
+  {
+   "address": "0x64570f1f0252804fbc51739d94167c7bc9045730",
+   "claimed": 46710.60432524
+  },
+  {
+   "address": "0xd293647d38164b194abdaf9491ea57ee8b5d9191",
+   "claimed": 46406.21952958
+  },
+  {
+   "address": "0xfe583de50797790a47b6ab63b13f206629b4e5e4",
+   "claimed": 45952.33587561
+  },
+  {
+   "address": "0xf862bfdbf348943cf7c05578bc9afde26add8d73",
+   "claimed": 45735.09293231
+  },
+  {
+   "address": "0x4e33df7c45aa6c2e4ea254addab56018bd503faa",
+   "claimed": 45676.94931223
+  },
+  {
+   "address": "0x8e50ef6fe3d9c1f7579f1b68347fe0e8f275d047",
+   "claimed": 45629.36892235
+  },
+  {
+   "address": "0x8c2826e0783ba361eae59f35af12f340df014697",
+   "claimed": 44739.13198183
+  },
+  {
+   "address": "0xa57393d206c0e20e7f0c6883975ec8b8a33ddc48",
+   "claimed": 44442.27186136
+  },
+  {
+   "address": "0x788917ba6afcd730662745146ea0fc74b466d2ea",
+   "claimed": 43941.47794827
+  },
+  {
+   "address": "0x4271b0d6b25b1299a87437bd86bb2ee2d7bebf77",
+   "claimed": 43731.80780357
+  },
+  {
+   "address": "0xa8d189023f544735ec2d5cc41d83ac0410ffa284",
+   "claimed": 43489.64414135
+  },
+  {
+   "address": "0xb1dc7a69cdec5e1ab06b9faf2a7d0634d10bc107",
+   "claimed": 43055.79926125
+  },
+  {
+   "address": "0x0fffab764a78d2cf36a9f6079ad0e8361fa2eb94",
+   "claimed": 42947.99101081
+  },
+  {
+   "address": "0x7b3a2e795ea70cb58ce5a16f5db9284e5116b59e",
+   "claimed": 42466.0607387
+  },
+  {
+   "address": "0x9be9efd548b3aa64676941ff7c3be4cde93c522f",
+   "claimed": 41673.89526641
+  },
+  {
+   "address": "0x3927af597c09774f91ef84bf765ded4109e9f8ea",
+   "claimed": 41537.36066521
+  },
+  {
+   "address": "0xa96a537c165e903ac5e2dddf57f7eb6961207708",
+   "claimed": 41217.03190158
+  },
+  {
+   "address": "0xb2d64842651bb8f987b84bbcc1087d7f1b4e0c57",
+   "claimed": 41173.29453834
+  },
+  {
+   "address": "0x265eac78fb57495674227c93065d67abe6f97f70",
+   "claimed": 40816.53870079
+  },
+  {
+   "address": "0x18478dfe4e5103a9213db5c4eab9b4a17abbff84",
+   "claimed": 40590.91503715
+  },
+  {
+   "address": "0x7b29f8c0ea709b96b72214b3de5d85c3d9570794",
+   "claimed": 39637.725136
+  },
+  {
+   "address": "0x914e175924379010635f6f7072d99925ad6aba26",
+   "claimed": 39479.54075587999
+  },
+  {
+   "address": "0x28cee4465f95720cb8464d56faea656751119040",
+   "claimed": 39317.08518287
+  },
+  {
+   "address": "0x6a5ef320c39aa45b3c4780a30dcb498dbcef6216",
+   "claimed": 39116.2588671
+  },
+  {
+   "address": "0xf482d8aba834789f5c7fabb0b48a1168c1466d43",
+   "claimed": 38722.73024331
+  },
+  {
+   "address": "0x7313291d14a722b4e1e37412b67f4fdd86a2a5cc",
+   "claimed": 38309.12002593
+  },
+  {
+   "address": "0x931caffff52f1b280b90992f36c3630fb1f05219",
+   "claimed": 38252.6095995
+  },
+  {
+   "address": "0xefcace57934a753d66c48a31b880ba806d4c0869",
+   "claimed": 38028.53976961
+  },
+  {
+   "address": "0xf4f2407bd5b0411d83fe4f27f14e1446395fc0a6",
+   "claimed": 37898.08851439
+  },
+  {
+   "address": "0x64bac0fc115ef0bb3e49eacafe89a8404dbb4c8a",
+   "claimed": 37387.77374986
+  },
+  {
+   "address": "0x19ba9fd03a472594d0a318f36629fa90d5b96fae",
+   "claimed": 37116.7571775
+  },
+  {
+   "address": "0x39506b30bebb9aa4825d4b5b7b3305bb77b6e3c1",
+   "claimed": 36897.79148214
+  },
+  {
+   "address": "0x5c70e5c5d26ec4d3edf7419a5211a291a175452f",
+   "claimed": 36410.17917253
+  },
+  {
+   "address": "0x3d89bcea338f35edfaeb313b1c713978c6dceb14",
+   "claimed": 36368.75648653
+  },
+  {
+   "address": "0x1e4c0a10aa9a09b8ebca323bbfa22dd11f6f7edd",
+   "claimed": 36311.35438837
+  },
+  {
+   "address": "0x1d7afab94d57b7af40142ac422e088ab3c138144",
+   "claimed": 36189.53993723
+  },
+  {
+   "address": "0x98e073b579fd483eac8f10d5bd0b32c8c3bbd7e0",
+   "claimed": 36168.80469079
+  },
+  {
+   "address": "0xa28ae105f60b9ddf4bbcc67ad1b1bc760d0d8925",
+   "claimed": 36148.59109065
+  },
+  {
+   "address": "0x0c6265f92cb7ed2cd52f54d1a404c90489a24a6a",
+   "claimed": 35676.12127048
+  },
+  {
+   "address": "0x809ec84644d4cc0ae27dba154b6acfa8ffe0cbb7",
+   "claimed": 35582.1084619
+  },
+  {
+   "address": "0xd79bd37b8367a563b0acd5fc43b0fd4ace7fabda",
+   "claimed": 35490.82686072
+  },
+  {
+   "address": "0x9573f5212525ffc65e24fdca017bc653090f4ac1",
+   "claimed": 35144.18292241
+  },
+  {
+   "address": "0x5a4385890c042539f184c7ab801601d00cf68e6a",
+   "claimed": 35010.05979565
+  },
+  {
+   "address": "0xbb0681e131d704cb86bda625a730c7866e262a3a",
+   "claimed": 35004.352891430004
+  },
+  {
+   "address": "0x7b8e9b448ac82a04ba4d605e5ac01326847e84b2",
+   "claimed": 34676.59287203
+  },
+  {
+   "address": "0xdd74a5f502167c1bdd88968d058834170175277b",
+   "claimed": 34154.95907372
+  },
+  {
+   "address": "0x3ef944fb786f765cfc3998e1f51cb884ea9b18c5",
+   "claimed": 33958.73690587
+  },
+  {
+   "address": "0x145dcfb47920325d5bb44d239cb9fd0dcada8bc7",
+   "claimed": 33748.78818127
+  },
+  {
+   "address": "0xb6f6bc3a1cd32e549199be771c387edfc53ece9e",
+   "claimed": 32733.520929140002
+  },
+  {
+   "address": "0x417c1e38b30e4eea20ddbc64e12f11c581b7ba85",
+   "claimed": 32531.074920400002
+  },
+  {
+   "address": "0x136ea1a4965fbe2587cfdb26d08c7afdee0da608",
+   "claimed": 32464.014237919997
+  },
+  {
+   "address": "0x7e9e8515581739055bb202dddbb8e51fd2553a98",
+   "claimed": 32298.43493565
+  },
+  {
+   "address": "0x49444ab4a1432190a13dd6e19014ab0fd6698def",
+   "claimed": 32231.91359632
+  },
+  {
+   "address": "0xf4b5295c919831cc1135b2a0a9c14a8883be436f",
+   "claimed": 32018.357469219995
+  },
+  {
+   "address": "0xebbd80fb8b231f447f583f605de016fec222a475",
+   "claimed": 31731.77544398
+  },
+  {
+   "address": "0x7d86979c74911419bc5630e1b5c6eba839045eaf",
+   "claimed": 31704.78415002
+  },
+  {
+   "address": "0x5697ce38fce437fb0510839047cbe00174923bb2",
+   "claimed": 31693.65481612
+  },
+  {
+   "address": "0xa4a436bc988e893cf5135f18cb4b186600433d53",
+   "claimed": 31457.87384057
+  },
+  {
+   "address": "0x6a64167f066117eae736226b3b132fa925169a35",
+   "claimed": 31368.84574268
+  },
+  {
+   "address": "0x7794e775935839f63e22b624b2dcd1203b503e02",
+   "claimed": 31312.77957838
+  },
+  {
+   "address": "0xf2f79c84483b18f23404c2936977e1d86ce5e177",
+   "claimed": 31266.26479074
+  },
+  {
+   "address": "0x0272f3ebd901f4417c2ae5d0ce52b9ec18e9c6d2",
+   "claimed": 31175.03435296
+  },
+  {
+   "address": "0x65a405eef0702c1d6af42f936f84f5eb3c8702d8",
+   "claimed": 31117.5772305
+  },
+  {
+   "address": "0x716d91d3e7bc19a8b33e7cee02963fa04ec7f0b8",
+   "claimed": 30694.77013729
+  },
+  {
+   "address": "0x163b5532a467e9b55682972272c8742728847de7",
+   "claimed": 30613.88037628
+  },
+  {
+   "address": "0x145d9df4c64a6b4b50766f54a76d0eb12d93fda7",
+   "claimed": 30514.7328014
+  },
+  {
+   "address": "0xd02d23e3aaebabd36c8253a38e80c4dddfcff127",
+   "claimed": 30295.54386257
+  },
+  {
+   "address": "0x462b2006ecdd7933425a582cb0d82266613204fc",
+   "claimed": 30049.016134769998
+  },
+  {
+   "address": "0x3e91ea006f8b2394a6db8ab0225309ad6e7ed9cb",
+   "claimed": 30006.19442043
+  },
+  {
+   "address": "0xf4ccb44456b731c7cc520668dc6ce1532808179f",
+   "claimed": 29966.5296961
+  },
+  {
+   "address": "0xd70c9e61ba506a8cf1c25b54d14b25abdc048fd4",
+   "claimed": 29821.92181795
+  },
+  {
+   "address": "0x1d6f5714e89b10eba32627f4afc230c0c2711304",
+   "claimed": 29811.98380701
+  },
+  {
+   "address": "0x86a8c6ad0e90d3a3c25fcadcbf20ab9e89013137",
+   "claimed": 29676.02043378
+  },
+  {
+   "address": "0x797c03e5baec0e948054b8d030e3b138674150cb",
+   "claimed": 29175.784720210002
+  },
+  {
+   "address": "0xa8e03bddc6d7676bc9aa98212a0179c14253805e",
+   "claimed": 29057.18322122
+  },
+  {
+   "address": "0xff8e9a7e6e8a4991122c90d2cce3fab386d2e25b",
+   "claimed": 28990.900511969998
+  },
+  {
+   "address": "0x389c3d69d05b6463d1b7a1406e861f494a2e9b97",
+   "claimed": 28889.6106571
+  },
+  {
+   "address": "0x108ed1f3956d581477b599c1ddf9d5f5439b848c",
+   "claimed": 28815.55417353
+  },
+  {
+   "address": "0x78dc1ca9c94720d357d0f808f6ce413f2bdf0d4b",
+   "claimed": 28814.40174135
+  },
+  {
+   "address": "0xa8b6c5c3ac760019c92dbbdae8237f36201a069a",
+   "claimed": 28771.74542101
+  },
+  {
+   "address": "0xa7df9007432213161e1a48027f882b97ebd771ee",
+   "claimed": 28589.01762849
+  },
+  {
+   "address": "0x6935cb05f3a6e13c61b5d4bda18c3fe2e5db93ac",
+   "claimed": 28516.29039105
+  },
+  {
+   "address": "0x44fc015d08f6ecba0455b8d6bb4d5623c763dfd3",
+   "claimed": 28156.79622777
+  },
+  {
+   "address": "0x335db137f5ee57402d3a45898fbe4658cdbe60a1",
+   "claimed": 28097.52637681
+  },
+  {
+   "address": "0x13c50dcdee4bbcba71baf578b345cdd35c7928be",
+   "claimed": 27919.77935783
+  },
+  {
+   "address": "0xce6a3cdc3528f5f649a8d0fe27dfd49e9da58baa",
+   "claimed": 27699.66116543
+  },
+  {
+   "address": "0xf16a8b7e7729cb5d1f8cecfbf0b3f403177fde21",
+   "claimed": 27689.45341466
+  },
+  {
+   "address": "0x61b35e240c404399b8197468aeaecac51d4f86fe",
+   "claimed": 27338.8229416
+  },
+  {
+   "address": "0x333983eb213d132cf4f71751dd38802d0362e3fa",
+   "claimed": 27280.29703257
+  },
+  {
+   "address": "0xed62616a7c1dd354801f4e72389299a81493e004",
+   "claimed": 26720.37972272
+  },
+  {
+   "address": "0x040d5a5c26580c50f894bc118b7c550b853516bf",
+   "claimed": 26478.37651547
+  },
+  {
+   "address": "0xb2a0cdbb46acb87e794fe09aa2925fa9667ddba8",
+   "claimed": 25929.2675246
+  },
+  {
+   "address": "0x2057d4f2b6ea957b63371980775b0a5505a438f0",
+   "claimed": 25904.26787447
+  },
+  {
+   "address": "0x82c1692b2b770b3bcc18b5260e1b00cde4a50025",
+   "claimed": 25660.63002305
+  },
+  {
+   "address": "0x0ce048fe42c170e41740ee392e187f19515f339d",
+   "claimed": 25640.91183371
+  }
+ ]
+}

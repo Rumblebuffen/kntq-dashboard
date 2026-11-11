@@ -1,0 +1,55 @@
+name: Collect (hourly)
+
+on:
+  schedule:
+    # Minute 17, not 0: GitHub delays and sometimes drops jobs queued at the top of the hour.
+    - cron: '17 * * * *'
+  workflow_dispatch:
+
+# All jobs that write to the data branch share one queue, so two never push at once.
+concurrency:
+  group: data-branch
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - name: Collect
+        run: npm run collect -- --data-dir data
+        env:
+          ALERTS_OUT: ${{ runner.temp }}/alerts.json
+      - name: Commit data
+        if: always()
+        working-directory: data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then echo 'nothing to commit'; exit 0; fi
+          git commit -q -m "Hourly snapshot $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+      - name: Open an issue for each new alert
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ALERTS_OUT: ${{ runner.temp }}/alerts.json
+        run: |
+          [ -s "$ALERTS_OUT" ] || exit 0
+          jq -c '.[]' "$ALERTS_OUT" | while read -r a; do
+            gh issue create --repo "$GITHUB_REPOSITORY" --title "$(jq -r .title <<<"$a")" --body "$(jq -r .body <<<"$a")"
+          done
