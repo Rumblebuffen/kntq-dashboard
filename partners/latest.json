@@ -1,0 +1,140 @@
+{
+ "t": 1794390354759,
+ "projects": [
+  {
+   "burnShare": null,
+   "commitment": "40% of net trading revenue buys back and burns KNTQ",
+   "days": [],
+   "logoUrl": "https://admin.km.xyz/api/media/file/banana-gun.webp",
+   "share": 40,
+   "slug": "banana-gun",
+   "title": "Banana Gun",
+   "totals": {
+    "burnedKntqAmount": 0,
+    "kntqAmount": 0,
+    "lastTime": null,
+    "usdValue": 0
+   }
+  },
+  {
+   "burnShare": null,
+   "commitment": "20% of net revenue buys and burns KNTQ",
+   "days": [],
+   "logoUrl": "https://admin.km.xyz/api/media/file/project-223.webp",
+   "share": 20,
+   "slug": "cove",
+   "title": "cove",
+   "totals": {
+    "burnedKntqAmount": 0,
+    "kntqAmount": 0,
+    "lastTime": null,
+    "usdValue": 0
+   }
+  },
+  {
+   "burnShare": null,
+   "commitment": "50% of protocol revenue is used to buy KNTQ",
+   "days": [],
+   "logoUrl": "https://admin.km.xyz/api/media/file/project-30.webp",
+   "share": 50,
+   "slug": "elysium-name-service-ely",
+   "title": "Elysium name service",
+   "totals": {
+    "burnedKntqAmount": 0,
+    "kntqAmount": 0,
+    "lastTime": null,
+    "usdValue": 0
+   }
+  },
+  {
+   "burnShare": null,
+   "commitment": "100% of Kinetiq's disposable Markets income is used for buybacks.",
+   "days": null,
+   "logoUrl": "https://admin.km.xyz/api/media/file/markets-xyz-logo.svg",
+   "share": 100,
+   "slug": "marketsxyz",
+   "title": "Markets.xyz",
+   "totals": null
+  },
+  {
+   "burnShare": null,
+   "commitment": "30% of Elysium revenue will be used to buy and burn KNTQ",
+   "days": [],
+   "logoUrl": "https://admin.km.xyz/api/media/file/project-161.svg",
+   "share": 30,
+   "slug": "oku",
+   "title": "Oku",
+   "totals": {
+    "burnedKntqAmount": 0,
+    "kntqAmount": 0,
+    "lastTime": null,
+    "usdValue": 0
+   }
+  },
+  {
+   "burnShare": null,
+   "commitment": "50% of all revenue buys and burns $KNTQ",
+   "days": [],
+   "logoUrl": "https://admin.km.xyz/api/media/file/project-200.svg",
+   "share": 50,
+   "slug": "windup",
+   "title": "Windup",
+   "totals": {
+    "burnedKntqAmount": 0,
+    "kntqAmount": 0,
+    "lastTime": null,
+    "usdValue": 0
+   }
+  },
+  {
+   "burnShare": null,
+   "commitment": "25% of revenue is used to buy KNTQ",
+   "days": null,
+   "logoUrl": "https://admin.km.xyz/api/media/file/elysium-project-oxley-v2.webp",
+   "share": 25,
+   "slug": "oxley",
+   "title": "Oxley",
+   "totals": null
+  },
+  {
+   "burnShare": null,
+   "commitment": "80% of Ascend’s buybacks go to KNTQ",
+   "days": [],
+   "logoUrl": "https://admin.km.xyz/api/media/file/elysium-project-ascend.webp",
+   "share": 80,
+   "slug": "ascend",
+   "title": "Ascend",
+   "totals": {
+    "burnedKntqAmount": 0,
+    "kntqAmount": 0,
+    "lastTime": null,
+    "usdValue": 0
+   }
+  },
+  {
+   "burnShare": null,
+   "commitment": "40% of net revenue generated on Elysium will be used to buy KNTQ",
+   "days": [],
+   "logoUrl": "https://admin.km.xyz/api/media/file/elysium-project-dawn.webp",
+   "share": 40,
+   "slug": "dawn",
+   "title": "Dawn",
+   "totals": {
+    "burnedKntqAmount": 0,
+    "kntqAmount": 0,
+    "lastTime": null,
+    "usdValue": 0
+   }
+  },
+  {
+   "burnShare": null,
+   "commitment": "70% of protocol revenue is used to buy KNTQ",
+   "days": null,
+   "logoUrl": "https://admin.km.xyz/api/media/file/elysium-project-nest.webp",
+   "share": 70,
+   "slug": "nest",
+   "title": "Nest",
+   "totals": null
+  }
+ ]
+}

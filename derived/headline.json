@@ -1,0 +1,153 @@
+{
+ "generatedAt": 1794390413330,
+ "headline": {
+  "nowMs": 1794390413330,
+  "kntqUsd": 0.30506,
+  "totalBurnedAllTime": 4569612.41369075,
+  "sinkReconciliation": [
+   {
+    "sink": "hypercore_af",
+    "balance": 4569068.89420483,
+    "ledgerSum": 4569068.894204826,
+    "residual": 3.725290298461914e-9,
+    "ok": true
+   },
+   {
+    "sink": "elysium_dead",
+    "balance": 543.51948592,
+    "ledgerSum": 543.5194859000001,
+    "residual": 1.9999902178824414e-8,
+    "ok": true
+   }
+  ],
+  "windows": [
+   {
+    "label": "24h",
+    "t0": 1794330000000,
+    "t1": 1794390413330,
+    "clamped": true,
+    "days": 0.6992283564814815,
+    "burnedActual": 3617.82310806,
+    "burnedBySource": {
+     "protocol_buyback": 3403.84563924,
+     "unattributed": 213.97746882
+    },
+    "pendingBurn": 62250.59009648999,
+    "estimated": 32158.33133243225,
+    "burnedInclEstimates": 98026.74453698224,
+    "unlocked": {
+     "kind": "projected",
+     "kntq": 301056.6534850823,
+     "smoothedKntq": null,
+     "observedKntq": 0,
+     "scheduledKntq": 0,
+     "flags": []
+    },
+    "unlockedForComparison": 301056.6534850823,
+    "released": 0,
+    "netSupplyChangeActual": -3617.82310806,
+    "netSupplyChangeInclProjected": 297438.8303770223,
+    "coverageActual": 0.012017084047734779,
+    "coverageInclEstimates": 0.32560896230728736,
+    "purchasesUsd": 52627.728244556674
+   },
+   {
+    "label": "7d",
+    "t0": 1794330000000,
+    "t1": 1794390413330,
+    "clamped": true,
+    "days": 0.6992283564814815,
+    "burnedActual": 3617.82310806,
+    "burnedBySource": {
+     "protocol_buyback": 3403.84563924,
+     "unattributed": 213.97746882
+    },
+    "pendingBurn": 62250.59009648999,
+    "estimated": 32158.33133243225,
+    "burnedInclEstimates": 98026.74453698224,
+    "unlocked": {
+     "kind": "projected",
+     "kntq": 301056.6534850823,
+     "smoothedKntq": null,
+     "observedKntq": 0,
+     "scheduledKntq": 0,
+     "flags": []
+    },
+    "unlockedForComparison": 301056.6534850823,
+    "released": 0,
+    "netSupplyChangeActual": -3617.82310806,
+    "netSupplyChangeInclProjected": 297438.8303770223,
+    "coverageActual": 0.012017084047734779,
+    "coverageInclEstimates": 0.32560896230728736,
+    "purchasesUsd": 52627.728244556674
+   },
+   {
+    "label": "since 11 Nov",
+    "t0": 1794330000000,
+    "t1": 1794390413330,
+    "clamped": false,
+    "days": 0.6992283564814815,
+    "burnedActual": 3617.82310806,
+    "burnedBySource": {
+     "protocol_buyback": 3403.84563924,
+     "unattributed": 213.97746882
+    },
+    "pendingBurn": 62250.59009648999,
+    "estimated": 32158.33133243225,
+    "burnedInclEstimates": 98026.74453698224,
+    "unlocked": {
+     "kind": "projected",
+     "kntq": 301056.6534850823,
+     "smoothedKntq": null,
+     "observedKntq": 0,
+     "scheduledKntq": 0,
+     "flags": []
+    },
+    "unlockedForComparison": 301056.6534850823,
+    "released": 0,
+    "netSupplyChangeActual": -3617.82310806,
+    "netSupplyChangeInclProjected": 297438.8303770223,
+    "coverageActual": 0.012017084047734779,
+    "coverageInclEstimates": 0.32560896230728736,
+    "purchasesUsd": 52627.728244556674
+   }
+  ],
+  "tranche": {
+   "kntq": 12916666.666666666,
+   "usd": 3940358.333333333,
+   "contributorsKntq": 9791666.666666666,
+   "investorsKntq": 3125000
+  },
+  "firstTranche": {
+   "timeMs": 1795779377000,
+   "msUntil": 1388963670,
+   "unverified": true
+  },
+  "runRate": {
+   "kntqPerDay": 13530.349013823978,
+   "daysUsed": 30,
+   "shortHistory": false
+  },
+  "crossover": {
+   "lastingMs": null,
+   "firstMs": null,
+   "behindFromMs": 1795779377000
+  },
+  "breakEven": {
+   "requiredUsdPerDay": 131345.27777777778,
+   "currentUsdPerDay": 12862.160265338605,
+   "gapUsdPerDay": 118483.11751243917,
+   "covered": 0.09792632428780584
+  },
+  "flow": {
+   "buyUsdPerDay": 12862.160265338605,
+   "sellUsdPerDay": 131345.27777777778,
+   "sellBySource": {
+    "unlocks": 131345.27777777778,
+    "growth_foundation": 0
+   },
+   "windowDays": 7
+  },
+  "flags": []
+ }
+}
