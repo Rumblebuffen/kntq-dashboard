@@ -4,7 +4,7 @@
 import type { Assumptions } from './assumptions.js';
 import { type SinkInflow, buildAttributionMap, burnedBySource, burnedInWindow, reconcileSinks, runRate, totalBurned, type SinkReconciliation, type RunRate } from './burn.js';
 import { type EstimateSeries, estimatedInWindow } from './estimate.js';
-import { type BreakEven, type Purchase, breakEven, buyPressureUsdPerDay, purchasesInWindow, sellPressureUsdPerDay, sellThroughFor, type SellThrough } from './flow.js';
+import { type BreakEven, type Purchase, breakEven, buyPressureUsdPerDay, purchasesInWindow, sellPressureUsdPerDay, sellThroughFor, type SellPressureLine, type SellThrough } from './flow.js';
 import { type Crossover, findCrossover } from './projection.js';
 import { DAY_MS } from './time.js';
 import { type ObservedUnlock, type UnlockWindow, effectiveSteps, monthlyTranche, preUnlockDailyRate, smoothedAmount, trancheSchedule, unlockedInWindow } from './unlock.js';
@@ -36,6 +36,8 @@ export interface ModelInputs {
   releases: Release[];
   /** open-market purchases, burned or not */
   purchases: Purchase[];
+  /** further sell-pressure lines for the flow lens (for example kPoints holders moving tokens out), in KNTQ per day */
+  extraSellLines?: SellPressureLine[];
 }
 
 export interface WindowMetrics {
@@ -160,6 +162,7 @@ export function computeHeadline(inp: ModelInputs, a: Assumptions, sellThrough: S
     [
       { source: 'unlocks', kntqPerDay: unlockPerDay },
       { source: 'growth_foundation', kntqPerDay: sumIn(inp.releases, f0, nowMs) / flowDays },
+      ...(inp.extraSellLines ?? []),
     ],
     kntqUsd,
     sellThrough,
