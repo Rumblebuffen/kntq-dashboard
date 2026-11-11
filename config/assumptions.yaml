@@ -94,6 +94,12 @@ wallets:
     source: On-chain. Label inferred from the 300,000,000 genesis transfer. Baseline is the balance at model start (last outflow before it was 8 Nov 2026).
     retrieved: 2026-11-11
     confidence: high
+  liquidity:
+    value: "0x4664b0453c7c483e2e262ca54351ade71b6be734"
+    chain: hyperevm
+    source: On-chain. Received 20,000,000 from the deployer at genesis. Used only to reproduce CoinGecko's circulating supply.
+    retrieved: 2026-11-11
+    confidence: moderate
   deployer:
     value: "0x51172933b60847085e2a959e860e2ec9e240ac09"
     chain: hypercore

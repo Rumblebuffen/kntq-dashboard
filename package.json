@@ -17,7 +17,8 @@
     "daily": "tsx src/collector/cli.ts daily",
     "weekly": "tsx src/collector/cli.ts weekly",
     "rebuild": "tsx src/collector/cli.ts rebuild",
-    "backfill": "tsx src/collector/backfill.ts"
+    "backfill": "tsx src/collector/backfill.ts",
+    "verify": "tsx src/cli/verify.ts"
   },
   "dependencies": {
     "chart.js": "^4.6.1",

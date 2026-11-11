@@ -177,9 +177,10 @@ export function buildView(d: PageData, sc: Scenario): View {
       tier: 'A',
       commitment: pctText(a.sequencer.kntqShare) + ' of sequencer revenue',
       burnedShare: pctText(a.sequencer.burnedShare),
-      status: est7 > 0 ? 'Estimated' : 'No data',
-      kntq7d: est7,
-      kntq7dNote: 'fees collected, not yet spent on buybacks',
+      // Once a sequencer buyback wallet is listed under attribution.sequencer_buyback, real burns take over.
+      status: (by7.sequencer_buyback ?? 0) > 0 ? 'Live' : est7 > 0 ? 'Estimated' : 'No data',
+      kntq7d: (by7.sequencer_buyback ?? 0) > 0 ? by7.sequencer_buyback! : est7,
+      kntq7dNote: (by7.sequencer_buyback ?? 0) > 0 ? undefined : 'fees collected, not yet spent on buybacks',
       confidence: meta('sequencer.kntq_share')?.confidence ?? 'high',
       source: 'https://kinetiq.xyz/docs/kntq',
       verified: meta('sequencer.kntq_share')?.retrieved ?? '',
@@ -199,7 +200,10 @@ export function buildView(d: PageData, sc: Scenario): View {
   const feed = new Map(d.partners.map((p) => [p.slug, p]));
   for (const p of Object.values(a.partners)) {
     const f = feed.get(p.slug);
-    const reported = f?.totals?.burnedKntqAmount ?? 0;
+    // Burns seen arriving in a burn address from a wallet listed under attribution "partner:<slug>" come first;
+    // Kinetiq's feed is the fallback.
+    const attributed = by7[`partner:${p.slug}`] ?? 0;
+    const reported = attributed > 0 ? attributed : (f?.totals?.burnedKntqAmount ?? 0);
     const isAscend = p.slug === 'ascend';
     let status: SourceStatus = 'No data';
     if (p.confidence === 'UNVERIFIED') status = 'Excluded';
@@ -212,8 +216,8 @@ export function buildView(d: PageData, sc: Scenario): View {
       commitment: `${pctText(p.commitment)} of ${p.revenueBase}`,
       burnedShare: pctText(p.burnedShare),
       status,
-      kntq7d: status === 'Excluded' ? null : isAscend ? pending7 : reported,
-      kntq7dNote: isAscend && pending7 > 0 ? 'held in its burn treasury, not yet burned' : undefined,
+      kntq7d: status === 'Excluded' ? null : status === 'Pending burn' ? pending7 : reported,
+      kntq7dNote: status === 'Pending burn' ? 'held in its burn treasury, not yet burned' : undefined,
       confidence: p.confidence,
       source: p.source,
       verified: meta(`partners.${p.slug}`)?.retrieved ?? '',

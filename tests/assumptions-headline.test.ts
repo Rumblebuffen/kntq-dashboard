@@ -24,6 +24,15 @@ describe('config/assumptions.yaml', () => {
   it('Ascend is 72% of fees to KNTQ with 40% burned (conservative), 60% as the alternative', () => {
     expect(a.partners.ascend).toMatchObject({ commitment: 0.72, burnedShare: 0.4, altBurnedShare: 0.6 });
   });
+  it('accepts a new attribution block as the README describes, including a quoted partner name', () => {
+    const edited = yamlText.replace(
+      '\ntokens:\n',
+      '\n  sequencer_buyback:\n    value: ["0x1111111111111111111111111111111111111111"]\n    source: test\n    retrieved: 2026-12-01\n    confidence: high\n  "partner:ascend":\n    value: ["0x2222222222222222222222222222222222222222"]\n    source: test\n    retrieved: 2026-12-01\n    confidence: high\n\ntokens:\n',
+    );
+    const b = loadAssumptions(edited);
+    expect(b.attribution.sequencer_buyback).toEqual(['0x1111111111111111111111111111111111111111']);
+    expect(b.attribution['partner:ascend']).toEqual(['0x2222222222222222222222222222222222222222']);
+  });
   it('rejects a malformed edit with a readable message', () => {
     expect(() => loadAssumptions(yamlText.replace('value: 1.0\n    source: Brief section 4 (default 100%', 'value: 150\n    source: Brief section 4 (default 100%'))).toThrow(/sell_through.global/);
     expect(() => loadAssumptions(yamlText.replace('value: "0xfefefefefefefefefefefefefefefefefefefefe"', 'value: "0xfefe"'))).toThrow(/sinks.hypercore_af/);
