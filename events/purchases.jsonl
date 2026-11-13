@@ -3283,3 +3283,14 @@
 {"id":"fill:1794523456464:34.93:0.29866","t":1794523456464,"source":"protocol_buyback","kntq":34.93,"usd":10.432193799999999}
 {"id":"ely:0x41a045eac71e8de339d49ddea358572a6f48c1d469834e2eef69594beea93d50:0","t":1794521116000,"source":"partner:ascend","kntq":34.69064094,"usd":10.350299630858402}
 {"id":"ely:0x41a045eac71e8de339d49ddea358572a6f48c1d469834e2eef69594beea93d50:1","t":1794521116000,"source":"partner:ascend","kntq":52.03596141,"usd":15.5254494462876}
+{"id":"fill:1794527057752:136.56:0.3012","t":1794527057752,"source":"protocol_buyback","kntq":136.56,"usd":41.131872}
+{"id":"fill:1794530658761:136.65:0.30041","t":1794530658761,"source":"protocol_buyback","kntq":136.65,"usd":41.051026500000006}
+{"id":"fill:1794534264211:136.76:0.30017","t":1794534264211,"source":"protocol_buyback","kntq":136.76,"usd":41.051249199999994}
+{"id":"fill:1794537870081:137.71:0.29832","t":1794537870081,"source":"protocol_buyback","kntq":137.71,"usd":41.0816472}
+{"id":"fill:1794541474519:144.04:0.28497","t":1794541474519,"source":"protocol_buyback","kntq":144.04,"usd":41.0470788}
+{"id":"fill:1794545079847:147.46:0.27838","t":1794545079847,"source":"protocol_buyback","kntq":147.46,"usd":41.0499148}
+{"id":"fill:1794548684012:108.49:0.27734","t":1794548684012,"source":"protocol_buyback","kntq":108.49,"usd":30.088616599999995}
+{"id":"fill:1794548684012:39.68:0.2774","t":1794548684012,"source":"protocol_buyback","kntq":39.68,"usd":11.007231999999998}
+{"id":"fill:1794552288962:147.32:0.27865","t":1794552288962,"source":"protocol_buyback","kntq":147.32,"usd":41.050717999999996}
+{"id":"ely:0x34dfd126d2a1f7b05cf6a2ff92503058ef15e3520e2ccbdc1e2d6872230dd31f:0","t":1794542800000,"source":"partner:ascend","kntq":4.45389743,"usd":1.2321261850351999}
+{"id":"ely:0x34dfd126d2a1f7b05cf6a2ff92503058ef15e3520e2ccbdc1e2d6872230dd31f:1","t":1794542800000,"source":"partner:ascend","kntq":6.68084614,"usd":1.8481892761696}
