@@ -1,5 +1,5 @@
 {
- "t": 1794552770840,
+ "t": 1794583627886,
  "projects": [
   {
    "burnShare": null,
@@ -64,21 +64,6 @@
    "share": 30,
    "slug": "oku",
    "title": "Oku",
-   "totals": {
-    "burnedKntqAmount": 0,
-    "kntqAmount": 0,
-    "lastTime": null,
-    "usdValue": 0
-   }
-  },
-  {
-   "burnShare": null,
-   "commitment": "50% of all revenue buys and burns $KNTQ",
-   "days": [],
-   "logoUrl": "https://admin.km.xyz/api/media/file/project-200.svg",
-   "share": 50,
-   "slug": "windup",
-   "title": "Windup",
    "totals": {
     "burnedKntqAmount": 0,
     "kntqAmount": 0,
