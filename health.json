@@ -1,84 +1,84 @@
 {
  "hyperliquid_prices": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "hyperliquid_candles": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "af_balance": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "af_ledger": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "buyback_fills": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "elysium_transfers": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "elysium_dead_balance": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "ascend_balances": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "sequencer_fee_account": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "hyperevm_wallets": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "deployer_balance": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "hyperliquid_supply": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "kinetiq_supply_feed": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
  },
  "kinetiq_partner_feed": {
-  "lastOkMs": 1794623390977,
+  "lastOkMs": 1794652528437,
   "lastErrorMs": null,
   "lastError": null,
   "consecutiveFailures": 0
