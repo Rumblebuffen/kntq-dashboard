@@ -3477,3 +3477,16 @@
 {"id":"fill:1794822723759:463.68:0.23875","t":1794822723759,"source":"protocol_buyback","kntq":463.68,"usd":110.7036}
 {"id":"ely:0x1d480bac1123f647b8ba8f6ab5c5f10505b679b77054de2b16d1879b155dab6e:0","t":1794810955000,"source":"partner:ascend","kntq":1.27822509,"usd":0.3137659128423}
 {"id":"ely:0x1d480bac1123f647b8ba8f6ab5c5f10505b679b77054de2b16d1879b155dab6e:1","t":1794810955000,"source":"partner:ascend","kntq":1.91733764,"usd":0.47064887049079995}
+{"id":"fill:1794826324466:468.92:0.23603","t":1794826324466,"source":"protocol_buyback","kntq":468.92,"usd":110.6791876}
+{"id":"fill:1794829929862:486.95:0.22729","t":1794829929862,"source":"protocol_buyback","kntq":486.95,"usd":110.6788655}
+{"id":"fill:1794837025278:58.85:0.2211","t":1794837025278,"source":"protocol_buyback","kntq":58.85,"usd":13.011735}
+{"id":"fill:1794840634155:55.8:0.233","t":1794840634155,"source":"protocol_buyback","kntq":55.8,"usd":13.0014}
+{"id":"fill:1794844234581:57.09:0.22782","t":1794844234581,"source":"protocol_buyback","kntq":57.09,"usd":13.0062438}
+{"id":"fill:1794847840635:57.18:0.22752","t":1794847840635,"source":"protocol_buyback","kntq":57.18,"usd":13.0095936}
+{"id":"fill:1794851443718:56.97:0.2283","t":1794851443718,"source":"protocol_buyback","kntq":56.97,"usd":13.006251}
+{"id":"fill:1794855046028:57.47:0.22626","t":1794855046028,"source":"protocol_buyback","kntq":57.47,"usd":13.003162199999998}
+{"id":"fill:1794858655510:57.43:0.22637","t":1794858655510,"source":"protocol_buyback","kntq":57.43,"usd":13.0004291}
+{"id":"ely:0xe78454c22c36f51b5f74312f350f9b32c9325ff50e5e08e28b3f06acab1ef80d:12","t":1794834646000,"source":"partner:ascend","kntq":1.18075333,"usd":0.2609582934633}
+{"id":"ely:0xe78454c22c36f51b5f74312f350f9b32c9325ff50e5e08e28b3f06acab1ef80d:13","t":1794834646000,"source":"partner:ascend","kntq":1.77113,"usd":0.3914374413}
+{"id":"ely:0x873a059c2081ca40da4bb81a2440efd4003026b55e3d8d24c4ce0be0ed1c8a66:0","t":1794859839000,"source":"partner:ascend","kntq":9.65499217,"usd":2.1972831180486}
+{"id":"ely:0x873a059c2081ca40da4bb81a2440efd4003026b55e3d8d24c4ce0be0ed1c8a66:1","t":1794859839000,"source":"partner:ascend","kntq":14.48248826,"usd":3.2959246782108003}
