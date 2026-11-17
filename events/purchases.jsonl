@@ -3530,3 +3530,17 @@
 {"id":"fill:1794921073323:99.97:0.22409","t":1794921073323,"source":"protocol_buyback","kntq":99.97,"usd":22.4022773}
 {"id":"ely:0xe417bb79de1a3d7888ff843abd134717374129998665f30986f2d6eddeccbbe9:0","t":1794903239000,"source":"partner:ascend","kntq":7.51324908,"usd":1.6683169582139998}
 {"id":"ely:0xe417bb79de1a3d7888ff843abd134717374129998665f30986f2d6eddeccbbe9:1","t":1794903239000,"source":"partner:ascend","kntq":11.26987362,"usd":2.502475437321}
+{"id":"fill:1794924674931:129.72:0.22315","t":1794924674931,"source":"protocol_buyback","kntq":129.72,"usd":28.947017999999996}
+{"id":"fill:1794924674931:897.23:0.22316","t":1794924674931,"source":"protocol_buyback","kntq":897.23,"usd":200.2258468}
+{"id":"fill:1794928276942:1021.91:0.22428","t":1794928276942,"source":"protocol_buyback","kntq":1021.91,"usd":229.1939748}
+{"id":"fill:1794931881947:1034.09:0.22155","t":1794931881947,"source":"protocol_buyback","kntq":1034.09,"usd":229.10263949999998}
+{"id":"fill:1794935484358:1032.46:0.22183","t":1794935484358,"source":"protocol_buyback","kntq":1032.46,"usd":229.0306018}
+{"id":"fill:1794939086302:676.77:0.22181","t":1794939086302,"source":"protocol_buyback","kntq":676.77,"usd":150.1143537}
+{"id":"fill:1794939086302:357.04:0.22182","t":1794939086302,"source":"protocol_buyback","kntq":357.04,"usd":79.1986128}
+{"id":"fill:1794942687312:1030.37:0.22227","t":1794942687312,"source":"protocol_buyback","kntq":1030.37,"usd":229.02033989999998}
+{"id":"fill:1794949769093:58.25:0.22326","t":1794949769093,"source":"protocol_buyback","kntq":58.25,"usd":13.004895}
+{"id":"fill:1794953372857:58.26:0.22311","t":1794953372857,"source":"protocol_buyback","kntq":58.26,"usd":12.9983886}
+{"id":"ely:0x7a6f47585cc285f792f16f669b55e8dea6f3e66d66a6b60a49a56135689af6a1:0","t":1794925371000,"source":"partner:ascend","kntq":3.82214465,"usd":0.8560075158139999}
+{"id":"ely:0x7a6f47585cc285f792f16f669b55e8dea6f3e66d66a6b60a49a56135689af6a1:1","t":1794925371000,"source":"partner:ascend","kntq":5.73321698,"usd":1.2840112748408}
+{"id":"ely:0xf2e666a06b89012f024ea18fca3dfd57e6cdfdbcc642f5d5253a1566b7f98810:11","t":1794947158000,"source":"partner:ascend","kntq":1.60047501,"usd":0.3573060459825}
+{"id":"ely:0xf2e666a06b89012f024ea18fca3dfd57e6cdfdbcc642f5d5253a1566b7f98810:12","t":1794947158000,"source":"partner:ascend","kntq":2.40071251,"usd":0.5359590678575}
