@@ -3552,3 +3552,16 @@
 {"id":"fill:1794975010319:57.17:0.22741","t":1794975010319,"source":"protocol_buyback","kntq":57.17,"usd":13.0010297}
 {"id":"ely:0x88bc1d58319b6e76144db814f419e6d71ed08a67b659f2d7851dab2f7ecbf090:0","t":1794968861000,"source":"partner:ascend","kntq":65.24061822,"usd":14.829844927588201}
 {"id":"ely:0x88bc1d58319b6e76144db814f419e6d71ed08a67b659f2d7851dab2f7ecbf090:1","t":1794968861000,"source":"partner:ascend","kntq":97.86092733,"usd":22.2447673913823}
+{"id":"fill:1794978619688:57.33:0.22675","t":1794978619688,"source":"protocol_buyback","kntq":57.33,"usd":12.999577500000001}
+{"id":"fill:1794982222971:57.5:0.2261","t":1794982222971,"source":"protocol_buyback","kntq":57.5,"usd":13.00075}
+{"id":"fill:1794985834039:57.6:0.22571","t":1794985834039,"source":"protocol_buyback","kntq":57.6,"usd":13.000896}
+{"id":"fill:1794989437550:57.89:0.22462","t":1794989437550,"source":"protocol_buyback","kntq":57.89,"usd":13.0032518}
+{"id":"fill:1794993048891:0.02:0.22346","t":1794993048891,"source":"protocol_buyback","kntq":0.02,"usd":0.0044691999999999996}
+{"id":"fill:1794993048891:56.4:0.22367","t":1794993048891,"source":"protocol_buyback","kntq":56.4,"usd":12.614988}
+{"id":"fill:1794993048891:1.76:0.22371","t":1794993048891,"source":"protocol_buyback","kntq":1.76,"usd":0.3937296}
+{"id":"fill:1794996650358:58.2:0.22336","t":1794996650358,"source":"protocol_buyback","kntq":58.2,"usd":12.999552000000001}
+{"id":"fill:1795000262323:58.36:0.22277","t":1795000262323,"source":"protocol_buyback","kntq":58.36,"usd":13.0008572}
+{"id":"fill:1795003868058:58.13:0.22378","t":1795003868058,"source":"protocol_buyback","kntq":58.13,"usd":13.008331400000001}
+{"id":"fill:1795007469071:58.03:0.22406","t":1795007469071,"source":"protocol_buyback","kntq":58.03,"usd":13.0022018}
+{"id":"ely:0xe1a6655141ec2a70c1b11a693dcd871771780fc1f7ee565727f69afed9251955:0","t":1794991590000,"source":"partner:ascend","kntq":3.59166104,"usd":0.8035982410896}
+{"id":"ely:0xe1a6655141ec2a70c1b11a693dcd871771780fc1f7ee565727f69afed9251955:1","t":1794991590000,"source":"partner:ascend","kntq":5.38749156,"usd":1.2053973616344}
