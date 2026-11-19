@@ -1,0 +1,2 @@
+{"id":"move:bal:growth:1795126377626","t":1795126377626,"type":"treasury_outflow","title":"500,000 KNTQ left the growth wallet","body":"Detected 2026-11-19T22:12:57.626Z by an hourly balance change. Counted as newly circulating."}
+{"id":"fee:1795126377626","t":1795126377626,"type":"sequencer_fees_spent","title":"Elysium fee account spent 1949.64 HYPE","body":"This may be the first sequencer-fee buyback. Find the wallet that bought KNTQ, add it to attribution in config/assumptions.yaml, and the estimate will be replaced by actuals."}

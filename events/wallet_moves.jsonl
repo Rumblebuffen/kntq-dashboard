@@ -11,3 +11,4 @@
 {"id":"log:0x18471535abf87bce94e2cea650ca2e4e59597fa7da96c1961d69e0a4f5a430e9:50426586:900000","t":1793856704000,"wallet":"growth","kntq":-900000,"via":"log","counterparty":"0x132213efec1f9b999c063ff5aeb5c623934e7b4b"}
 {"id":"log:0xee4833f3cd7821dfe062bc3033f80735faefab77bfdca5b466e787a7f5ee2ea1:50505006:1000000","t":1793933838000,"wallet":"growth","kntq":-1000000,"via":"log","counterparty":"0x132213efec1f9b999c063ff5aeb5c623934e7b4b"}
 {"id":"log:0x0f0c0d815945c5773424b29e68be6aab13118b71d339e542fe9a4cf42c9b11e0:50747352:2500000","t":1794172269000,"wallet":"growth","kntq":-2500000,"via":"log","counterparty":"0x99ed257a514d81a62c3195934d4e63a1c2c3946a"}
+{"id":"bal:growth:1795126377626","t":1795126377626,"wallet":"growth","kntq":-500000,"via":"balance"}
