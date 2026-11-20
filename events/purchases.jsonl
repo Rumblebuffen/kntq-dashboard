@@ -3625,3 +3625,11 @@
 {"id":"fill:1795123814840:58.18:0.22361","t":1795123814840,"source":"protocol_buyback","kntq":58.18,"usd":13.0096298}
 {"id":"ely:0x62b76e713497019b0a861b7addeed9aff1fa28b88636de7be3fe9c1a7466c9e8:0","t":1795108476000,"source":"partner:ascend","kntq":0.45300831,"usd":0.10441841545500001}
 {"id":"ely:0x62b76e713497019b0a861b7addeed9aff1fa28b88636de7be3fe9c1a7466c9e8:1","t":1795108476000,"source":"partner:ascend","kntq":0.67951247,"usd":0.15662762433500002}
+{"id":"fill:1795127417744:58.21:0.22344","t":1795127417744,"source":"protocol_buyback","kntq":58.21,"usd":13.006442400000001}
+{"id":"fill:1795131019449:57.89:0.22459","t":1795131019449,"source":"protocol_buyback","kntq":57.89,"usd":13.0015151}
+{"id":"fill:1795134622827:57.97:0.22443","t":1795134622827,"source":"protocol_buyback","kntq":57.97,"usd":13.010207099999999}
+{"id":"fill:1795138226411:45.26:0.22314","t":1795138226411,"source":"protocol_buyback","kntq":45.26,"usd":10.0993164}
+{"id":"fill:1795138226411:13:0.22323","t":1795138226411,"source":"protocol_buyback","kntq":13,"usd":2.90199}
+{"id":"fill:1795141827661:59.85:0.21722","t":1795141827661,"source":"protocol_buyback","kntq":59.85,"usd":13.000617}
+{"id":"ely:0x545923cd539394626a24f174114f4fe4284676b4e328bf51a77cbf93226faef0:0","t":1795133156000,"source":"partner:ascend","kntq":1.04248321,"usd":0.2334745397116}
+{"id":"ely:0x545923cd539394626a24f174114f4fe4284676b4e328bf51a77cbf93226faef0:1","t":1795133156000,"source":"partner:ascend","kntq":1.56372482,"usd":0.3502118106872}
