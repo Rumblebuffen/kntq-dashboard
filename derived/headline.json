@@ -1,15 +1,15 @@
 {
- "generatedAt": 1795361099258,
+ "generatedAt": 1795384295129,
  "headline": {
-  "nowMs": 1795361099258,
-  "kntqUsd": 0.171085,
-  "totalBurnedAllTime": 5071754.545038341,
+  "nowMs": 1795384295129,
+  "kntqUsd": 0.16979,
+  "totalBurnedAllTime": 5089674.32240794,
   "sinkReconciliation": [
    {
     "sink": "hypercore_af",
-    "balance": 5069079.54200422,
-    "ledgerSum": 5069079.542004217,
-    "residual": 2.7939677238464355e-9,
+    "balance": 5086999.31937382,
+    "ledgerSum": 5086999.319373819,
+    "residual": 9.313225746154785e-10,
     "ok": true
    },
    {
@@ -23,17 +23,17 @@
   "windows": [
    {
     "label": "24h",
-    "t0": 1795274699258,
-    "t1": 1795361099258,
+    "t0": 1795297895129,
+    "t1": 1795384295129,
     "clamped": false,
     "days": 1,
-    "burnedActual": 172862.45152632004,
+    "burnedActual": 125286.82779038997,
     "burnedBySource": {
-     "protocol_buyback": 172862.45152632004
+     "protocol_buyback": 125286.82779038997
     },
-    "pendingBurn": 1.84489335,
+    "pendingBurn": 2.45835343,
     "estimated": 0,
-    "burnedInclEstimates": 172864.29641967005,
+    "burnedInclEstimates": 125289.28614381998,
     "unlocked": {
      "kind": "projected",
      "kntq": 430555.55555555556,
@@ -44,27 +44,27 @@
     },
     "unlockedForComparison": 430555.55555555556,
     "released": 0,
-    "netSupplyChangeActual": -172862.45152632004,
-    "netSupplyChangeInclProjected": 257693.10402923552,
-    "coverageActual": 0.40148698419016265,
-    "coverageInclEstimates": 0.40149126910374977,
-    "purchasesUsd": 28963.606035834353
+    "netSupplyChangeActual": -125286.82779038997,
+    "netSupplyChangeInclProjected": 305268.7277651656,
+    "coverageActual": 0.29098876131961543,
+    "coverageInclEstimates": 0.2909944710437109,
+    "purchasesUsd": 21159.13351185824
    },
    {
     "label": "7d",
-    "t0": 1794756299258,
-    "t1": 1795361099258,
+    "t0": 1794779495129,
+    "t1": 1795384295129,
     "clamped": false,
     "days": 7,
-    "burnedActual": 384604.18255100993,
+    "burnedActual": 399267.66092623986,
     "burnedBySource": {
-     "protocol_buyback": 345420.76610000996,
+     "protocol_buyback": 360084.24447524,
      "fees": 38183.416451,
      "unattributed": 1000
     },
-    "pendingBurn": 73188.65050121,
-    "estimated": 36830.22946072127,
-    "burnedInclEstimates": 494623.0625129412,
+    "pendingBurn": 73183.39373147998,
+    "estimated": 34608.08005733471,
+    "burnedInclEstimates": 507059.13471505453,
     "unlocked": {
      "kind": "projected",
      "kntq": 3013888.888888889,
@@ -75,57 +75,57 @@
     },
     "unlockedForComparison": 3013888.888888889,
     "released": 500000,
-    "netSupplyChangeActual": 115395.81744899007,
-    "netSupplyChangeInclProjected": 3129284.706337879,
-    "coverageActual": 0.12761060434872218,
-    "coverageInclEstimates": 0.1641145645204229,
-    "purchasesUsd": 100604.29561503167
+    "netSupplyChangeActual": 100732.33907376014,
+    "netSupplyChangeInclProjected": 3114621.227962649,
+    "coverageActual": 0.13247590592944364,
+    "coverageInclEstimates": 0.16824081889163098,
+    "purchasesUsd": 102874.785125499
    },
    {
     "label": "since 11 Nov",
     "t0": 1794330000000,
-    "t1": 1795361099258,
+    "t1": 1795384295129,
     "clamped": false,
-    "days": 11.934019189814816,
-    "burnedActual": 505759.95445562014,
+    "days": 12.202489918981481,
+    "burnedActual": 523679.7318252201,
     "burnedBySource": {
-     "protocol_buyback": 424649.7969336299,
+     "protocol_buyback": 442569.57430322986,
      "unattributed": 2345.4610169899997,
      "fees": 78764.696505
     },
-    "pendingBurn": 214361.69173242,
+    "pendingBurn": 214362.3051925,
     "estimated": 137631.0921313847,
-    "burnedInclEstimates": 857752.7383194249,
+    "burnedInclEstimates": 875673.1291491047,
     "unlocked": {
      "kind": "projected",
-     "kntq": 5138258.262281379,
+     "kntq": 5253849.826228138,
      "smoothedKntq": null,
      "observedKntq": 0,
      "scheduledKntq": 0,
      "flags": []
     },
-    "unlockedForComparison": 5138258.262281379,
+    "unlockedForComparison": 5253849.826228138,
     "released": 500000,
-    "netSupplyChangeActual": -5759.954455620144,
-    "netSupplyChangeInclProjected": 5132498.307825759,
-    "coverageActual": 0.09843023231593336,
-    "coverageInclEstimates": 0.16693453200201425,
-    "purchasesUsd": 233149.09449516993
+    "netSupplyChangeActual": -23679.731825220108,
+    "netSupplyChangeInclProjected": 5230170.094402918,
+    "coverageActual": 0.0996754283327474,
+    "coverageInclEstimates": 0.16667266064164818,
+    "purchasesUsd": 236198.0697924938
    }
   ],
   "tranche": {
    "kntq": 12916666.666666666,
-   "usd": 2209847.9166666665,
+   "usd": 2193120.833333333,
    "contributorsKntq": 9791666.666666666,
    "investorsKntq": 3125000
   },
   "firstTranche": {
    "timeMs": 1795779377000,
-   "msUntil": 418277742,
+   "msUntil": 395081871,
    "unverified": true
   },
   "runRate": {
-   "kntqPerDay": 23502.11106020037,
+   "kntqPerDay": 23966.195973214355,
    "daysUsed": 30,
    "shortHistory": false
   },
@@ -135,17 +135,17 @@
    "behindFromMs": 1795779377000
   },
   "breakEven": {
-   "requiredUsdPerDay": 73661.59722222222,
-   "currentUsdPerDay": 14372.042230718811,
-   "gapUsdPerDay": 59289.554991503406,
-   "covered": 0.1951090225122495
+   "requiredUsdPerDay": 73104.02777777777,
+   "currentUsdPerDay": 14696.397875071285,
+   "gapUsdPerDay": 58407.62990270648,
+   "covered": 0.2010340376831974
   },
   "flow": {
-   "buyUsdPerDay": 14372.042230718811,
-   "sellUsdPerDay": 85881.95436507936,
+   "buyUsdPerDay": 14696.397875071285,
+   "sellUsdPerDay": 85231.88492063493,
    "sellBySource": {
-    "unlocks": 73661.59722222222,
-    "growth_foundation": 12220.357142857143
+    "unlocks": 73104.02777777778,
+    "growth_foundation": 12127.857142857143
    },
    "windowDays": 7
   },
