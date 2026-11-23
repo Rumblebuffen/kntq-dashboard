@@ -47,3 +47,21 @@
 {"t":1794823010890,"kind":"removed_project","slug":"tilt","detail":"Ecosystem page removed from the sitemap"}
 {"t":1794823010890,"kind":"removed_project","slug":"updraft","detail":"Ecosystem page removed from the sitemap"}
 {"t":1794823010890,"kind":"removed_project","slug":"windup","detail":"Ecosystem page removed from the sitemap"}
+{"t":1795431429784,"kind":"changed_commitment","slug":"banana-gun","detail":"Banana Gun: was \"40% of net trading revenue buys back and burns KNTQ\" (share 40%, burn share not stated), now \"undefined\" (share 40%, burn share not stated)"}
+{"t":1795431429784,"kind":"changed_commitment","slug":"cove","detail":"cove: was \"20% of net revenue buys and burns KNTQ\" (share 20%, burn share not stated), now \"undefined\" (share 20%, burn share not stated)"}
+{"t":1795431429784,"kind":"changed_commitment","slug":"elysium-name-service-ely","detail":"Elysium name service: was \"50% of protocol revenue is used to buy KNTQ\" (share 50%, burn share not stated), now \"undefined\" (share 50%, burn share not stated)"}
+{"t":1795431429784,"kind":"changed_commitment","slug":"marketsxyz","detail":"Markets.xyz: was \"100% of Kinetiq's disposable Markets income is used for buybacks.\" (share 100%, burn share not stated), now \"undefined\" (share 100%, burn share not stated)"}
+{"t":1795431429784,"kind":"changed_commitment","slug":"oku","detail":"Oku: was \"30% of Elysium revenue will be used to buy and burn KNTQ\" (share 30%, burn share not stated), now \"undefined\" (share 30%, burn share not stated)"}
+{"t":1795431429784,"kind":"changed_commitment","slug":"oxley","detail":"Oxley: was \"25% of revenue is used to buy KNTQ\" (share 25%, burn share not stated), now \"undefined\" (share 25%, burn share not stated)"}
+{"t":1795431429784,"kind":"changed_commitment","slug":"ascend","detail":"Ascend: was \"80% of Ascend’s buybacks go to KNTQ\" (share 80%, burn share 60), now \"undefined\" (share 80%, burn share 60)"}
+{"t":1795431429784,"kind":"new_commitment","slug":"montra","detail":"Montra: \"undefined\" (share 70%, burn share not stated)"}
+{"t":1795431429784,"kind":"changed_commitment","slug":"dawn","detail":"Dawn: was \"40% of net revenue generated on Elysium will be used to buy KNTQ\" (share 40%, burn share not stated), now \"undefined\" (share 40%, burn share not stated)"}
+{"t":1795431429784,"kind":"changed_commitment","slug":"nest","detail":"Nest: was \"70% of protocol revenue is used to buy KNTQ\" (share 70%, burn share not stated), now \"undefined\" (share 70%, burn share not stated)"}
+{"t":1795431429784,"kind":"new_commitment","slug":"elysium-sequencer","detail":": \"undefined\" (share ?%, burn share not stated)"}
+{"t":1795431429784,"kind":"new_project","slug":"tesera-lab","detail":"New ecosystem page: https://elysium.kinetiq.xyz/ecosystem/tesera-lab"}
+{"t":1795431429784,"kind":"new_project","slug":"tilt-317","detail":"New ecosystem page: https://elysium.kinetiq.xyz/ecosystem/tilt-317"}
+{"t":1795431429784,"kind":"removed_project","slug":"cache","detail":"Ecosystem page removed from the sitemap"}
+{"t":1795431429784,"kind":"removed_project","slug":"elysium-testnet-faucet","detail":"Ecosystem page removed from the sitemap"}
+{"t":1795431429784,"kind":"removed_project","slug":"elyziuma","detail":"Ecosystem page removed from the sitemap"}
+{"t":1795431429784,"kind":"removed_project","slug":"stonkspad","detail":"Ecosystem page removed from the sitemap"}
+{"t":1795431429784,"kind":"removed_project","slug":"temporal-finance","detail":"Ecosystem page removed from the sitemap"}

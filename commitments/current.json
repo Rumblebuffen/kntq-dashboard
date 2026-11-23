@@ -2,56 +2,57 @@
  "projects": {
   "banana-gun": {
    "title": "Banana Gun",
-   "commitment": "40% of net trading revenue buys back and burns KNTQ",
    "share": 40,
    "burnShare": null
   },
   "cove": {
    "title": "cove",
-   "commitment": "20% of net revenue buys and burns KNTQ",
    "share": 20,
    "burnShare": null
   },
   "elysium-name-service-ely": {
    "title": "Elysium name service",
-   "commitment": "50% of protocol revenue is used to buy KNTQ",
    "share": 50,
    "burnShare": null
   },
   "marketsxyz": {
    "title": "Markets.xyz",
-   "commitment": "100% of Kinetiq's disposable Markets income is used for buybacks.",
    "share": 100,
    "burnShare": null
   },
   "oku": {
    "title": "Oku",
-   "commitment": "30% of Elysium revenue will be used to buy and burn KNTQ",
    "share": 30,
    "burnShare": null
   },
   "oxley": {
    "title": "Oxley",
-   "commitment": "25% of revenue is used to buy KNTQ",
    "share": 25,
    "burnShare": null
   },
   "ascend": {
    "title": "Ascend",
-   "commitment": "80% of Ascend’s buybacks go to KNTQ",
    "share": 80,
    "burnShare": 60
   },
+  "montra": {
+   "title": "Montra",
+   "share": 70,
+   "burnShare": null
+  },
   "dawn": {
    "title": "Dawn",
-   "commitment": "40% of net revenue generated on Elysium will be used to buy KNTQ",
    "share": 40,
    "burnShare": null
   },
   "nest": {
    "title": "Nest",
-   "commitment": "70% of protocol revenue is used to buy KNTQ",
    "share": 70,
+   "burnShare": null
+  },
+  "elysium-sequencer": {
+   "title": "",
+   "share": null,
    "burnShare": null
   }
  },
@@ -74,7 +75,6 @@
   "bankr",
   "bitget-wallet",
   "boxa-245",
-  "cache",
   "cantina",
   "chainstack",
   "codex",
@@ -98,10 +98,8 @@
   "elysium-ecosystem",
   "elysium-machines",
   "elysium-name-service-ely",
-  "elysium-testnet-faucet",
   "elyspump",
   "elyxa",
-  "elyziuma",
   "enso",
   "eqx",
   "evermor",
@@ -168,13 +166,13 @@
   "spectrumnodes",
   "speculate",
   "stonfi",
-  "stonkspad",
   "streamingfast",
   "substreams",
   "supercolony",
-  "temporal-finance",
+  "tesera-lab",
   "the-pit",
   "thehub",
+  "tilt-317",
   "true-markets",
   "uniswap",
   "vfatio",
