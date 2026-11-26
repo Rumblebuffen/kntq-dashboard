@@ -13,3 +13,5 @@
 {"id":"log:0x0f0c0d815945c5773424b29e68be6aab13118b71d339e542fe9a4cf42c9b11e0:50747352:2500000","t":1794172269000,"wallet":"growth","kntq":-2500000,"via":"log","counterparty":"0x99ed257a514d81a62c3195934d4e63a1c2c3946a"}
 {"id":"bal:growth:1795126377626","t":1795126377626,"wallet":"growth","kntq":-500000,"via":"balance"}
 {"id":"bal:investors:1795652864960","t":1795652864960,"wallet":"investors","kntq":-37200000,"via":"balance"}
+{"id":"bal:investors:1795685860047","t":1795685860047,"wallet":"investors","kntq":-13978260,"via":"balance"}
+{"id":"bal:growth:1795685860047","t":1795685860047,"wallet":"growth","kntq":-354381,"via":"balance"}

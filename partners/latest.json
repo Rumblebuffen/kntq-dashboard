@@ -1,9 +1,10 @@
 {
- "t": 1795652864960,
+ "t": 1795685860047,
  "projects": [
   {
    "burnShare": null,
    "days": [],
+   "isUnconfirmed": false,
    "kind": "project",
    "logoUrl": "https://admin.km.xyz/api/media/file/banana-gun.webp",
    "poolShare": null,
@@ -21,6 +22,7 @@
   {
    "burnShare": null,
    "days": [],
+   "isUnconfirmed": false,
    "kind": "project",
    "logoUrl": "https://admin.km.xyz/api/media/file/project-223.webp",
    "poolShare": null,
@@ -38,6 +40,7 @@
   {
    "burnShare": null,
    "days": [],
+   "isUnconfirmed": false,
    "kind": "project",
    "logoUrl": "https://admin.km.xyz/api/media/file/project-30.webp",
    "poolShare": null,
@@ -57,1639 +60,1648 @@
    "days": [
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 289.70008415589194,
+     "kntqAmount": 288.7650932363623,
      "lockedKntqAmount": 0,
      "time": 1774483200000,
-     "usdValue": 33.377911076054744
+     "usdValue": 33.270185723264774
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 89.1031455866817,
+     "kntqAmount": 88.81557013682355,
      "lockedKntqAmount": 0,
      "time": 1774569600000,
-     "usdValue": 10.158146195565017
+     "usdValue": 10.125361343327981
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1905.4293349560744,
+     "kntqAmount": 1899.279667684902,
      "lockedKntqAmount": 0,
      "time": 1774828800000,
-     "usdValue": 206.83090548238562
+     "usdValue": 206.16337023099763
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 445.5706328087319,
+     "kntqAmount": 444.13257835700773,
      "lockedKntqAmount": 0,
      "time": 1774915200000,
-     "usdValue": 48.848140171550334
+     "usdValue": 48.6904855142195
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 343.0676229701454,
+     "kntqAmount": 341.9603912853624,
      "lockedKntqAmount": 0,
      "time": 1775001600000,
-     "usdValue": 38.737092981260005
+     "usdValue": 38.61207116674454
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 474.1312704739105,
+     "kntqAmount": 472.6010381515767,
      "lockedKntqAmount": 0,
      "time": 1775088000000,
-     "usdValue": 46.30910290146714
+     "usdValue": 46.15964284580097
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 607.7824749419124,
+     "kntqAmount": 605.8208907857471,
      "lockedKntqAmount": 0,
      "time": 1775174400000,
-     "usdValue": 59.33547522169988
+     "usdValue": 59.14397327340078
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 794.5846733958925,
+     "kntqAmount": 792.0201955270397,
      "lockedKntqAmount": 0,
      "time": 1775260800000,
-     "usdValue": 77.7519139989967
+     "usdValue": 77.50097401816468
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 883.8960182698003,
+     "kntqAmount": 881.0432929994619,
      "lockedKntqAmount": 0,
      "time": 1775347200000,
-     "usdValue": 86.18512096261422
+     "usdValue": 85.90696327504087
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 732.095897453929,
+     "kntqAmount": 729.7330986361834,
      "lockedKntqAmount": 0,
      "time": 1775433600000,
-     "usdValue": 71.77356900061906
+     "usdValue": 71.54192379598149
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 968.2246358983673,
+     "kntqAmount": 965.0997447017781,
      "lockedKntqAmount": 0,
      "time": 1775520000000,
-     "usdValue": 88.5812937321851
+     "usdValue": 88.29540253018182
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 735.9805271928036,
+     "kntqAmount": 733.6051909484909,
      "lockedKntqAmount": 0,
      "time": 1775606400000,
-     "usdValue": 72.9625261742441
+     "usdValue": 72.72704367641316
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 383.38493177855287,
+     "kntqAmount": 382.1475782205037,
      "lockedKntqAmount": 0,
      "time": 1775692800000,
-     "usdValue": 37.44670532189451
+     "usdValue": 37.32584816182744
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 68.80547203815935,
+     "kntqAmount": 68.58340620149563,
      "lockedKntqAmount": 0,
      "time": 1776470400000,
-     "usdValue": 8.496787741992298
+     "usdValue": 8.469364831822695
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 871.0632115702346,
+     "kntqAmount": 868.2519034702472,
      "lockedKntqAmount": 0,
      "time": 1776556800000,
-     "usdValue": 94.3679831734393
+     "usdValue": 94.0634157528996
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1135.7433636607973,
+     "kntqAmount": 1132.0778150813655,
      "lockedKntqAmount": 0,
      "time": 1776643200000,
-     "usdValue": 119.62029580102342
+     "usdValue": 119.23422794504992
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1323.6445380992488,
+     "kntqAmount": 1319.3725489232227,
      "lockedKntqAmount": 0,
      "time": 1776729600000,
-     "usdValue": 140.1278143361123
+     "usdValue": 139.67555960391383
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1073.2985116190923,
+     "kntqAmount": 1069.8345003288212,
      "lockedKntqAmount": 0,
      "time": 1776816000000,
-     "usdValue": 113.97590873958674
+     "usdValue": 113.60805782912823
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1131.8240340407185,
+     "kntqAmount": 1128.1711348797917,
      "lockedKntqAmount": 0,
      "time": 1776902400000,
-     "usdValue": 125.4204205457422
+     "usdValue": 125.01563310953713
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 847.8797377747194,
+     "kntqAmount": 845.1432530478252,
      "lockedKntqAmount": 0,
      "time": 1776988800000,
-     "usdValue": 102.8041633431728
+     "usdValue": 102.47236862003429
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1048.8061055958692,
+     "kntqAmount": 1045.4211421847033,
      "lockedKntqAmount": 0,
      "time": 1777075200000,
-     "usdValue": 134.00120502032587
+     "usdValue": 133.56872357916546
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 942.0758595963908,
+     "kntqAmount": 939.0353621219175,
      "lockedKntqAmount": 0,
      "time": 1777161600000,
-     "usdValue": 119.77944382466107
+     "usdValue": 119.39286232728703
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 955.9426349080451,
+     "kntqAmount": 952.8573831869952,
      "lockedKntqAmount": 0,
      "time": 1777248000000,
-     "usdValue": 123.05002573996737
+     "usdValue": 122.65288862124687
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1231.477261230524,
+     "kntqAmount": 1227.5027368177587,
      "lockedKntqAmount": 0,
      "time": 1777334400000,
-     "usdValue": 149.76329935639455
+     "usdValue": 149.27994663185177
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1094.5972108545093,
+     "kntqAmount": 1091.064459196278,
      "lockedKntqAmount": 0,
      "time": 1777420800000,
-     "usdValue": 128.75079286982972
+     "usdValue": 128.3352568420571
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 329.0681974797101,
+     "kntqAmount": 328.0061481625827,
      "lockedKntqAmount": 0,
      "time": 1777507200000,
-     "usdValue": 37.9764740144812
+     "usdValue": 37.853907055404356
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 174.6748095925684,
+     "kntqAmount": 174.11105635336762,
      "lockedKntqAmount": 0,
      "time": 1777593600000,
-     "usdValue": 20.13967366388491
+     "usdValue": 20.074673986536215
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 181.29062744952546,
+     "kntqAmount": 180.70552202591114,
      "lockedKntqAmount": 0,
      "time": 1777680000000,
-     "usdValue": 21.129951997874347
+     "usdValue": 21.061756252244262
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 223.31130510996323,
+     "kntqAmount": 222.5905802847893,
      "lockedKntqAmount": 0,
      "time": 1777766400000,
-     "usdValue": 25.80415948570156
+     "usdValue": 25.720877995205885
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 183.76837466311562,
+     "kntqAmount": 183.17527244808736,
      "lockedKntqAmount": 0,
      "time": 1777852800000,
-     "usdValue": 21.031498438498783
+     "usdValue": 20.963620446259345
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 143.54550224026423,
+     "kntqAmount": 143.0822171103167,
      "lockedKntqAmount": 0,
      "time": 1777939200000,
-     "usdValue": 17.434284523670755
+     "usdValue": 17.37801633940141
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 8596.463357194067,
+     "kntqAmount": 8568.71874951656,
      "lockedKntqAmount": 0,
      "time": 1778025600000,
-     "usdValue": 1517.323750810286
+     "usdValue": 1512.426672740295
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 947.6331114571146,
+     "kntqAmount": 944.5746782611435,
      "lockedKntqAmount": 0,
      "time": 1778198400000,
-     "usdValue": 169.0484318504636
+     "usdValue": 168.50283743270066
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 335.6976317457474,
+     "kntqAmount": 334.61418629800295,
      "lockedKntqAmount": 0,
      "time": 1778284800000,
-     "usdValue": 61.63138617955998
+     "usdValue": 61.43247430625551
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1083.9430296077724,
+     "kntqAmount": 1080.4446637273352,
      "lockedKntqAmount": 0,
      "time": 1778371200000,
-     "usdValue": 197.77783857848763
+     "usdValue": 197.13952159734524
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1001.5795672767771,
+     "kntqAmount": 998.3470248930948,
      "lockedKntqAmount": 0,
      "time": 1778457600000,
-     "usdValue": 161.57845152691888
+     "usdValue": 161.0569660554544
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1836.1288405620003,
+     "kntqAmount": 1830.202836784631,
      "lockedKntqAmount": 0,
      "time": 1778544000000,
-     "usdValue": 277.05748351327264
+     "usdValue": 276.1632958846172
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 6.973358405062451,
+     "kntqAmount": 6.95085227840268,
      "lockedKntqAmount": 0,
      "time": 1778630400000,
-     "usdValue": 0.9567636012422621
+     "usdValue": 0.9536756998979994
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 516.0276434966163,
+     "kntqAmount": 514.3621929590321,
      "lockedKntqAmount": 0,
      "time": 1778716800000,
-     "usdValue": 80.63632695174498
+     "usdValue": 80.37607768842915
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 20.700016474891545,
+     "kntqAmount": 20.633208322265247,
      "lockedKntqAmount": 0,
      "time": 1778803200000,
-     "usdValue": 3.3487404042217905
+     "usdValue": 3.3379325306965466
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 355.1308829371796,
+     "kntqAmount": 353.98471775135204,
      "lockedKntqAmount": 0,
      "time": 1778889600000,
-     "usdValue": 49.76508014325265
+     "usdValue": 49.604466113128424
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1701.5969618938127,
+     "kntqAmount": 1696.1051522773066,
      "lockedKntqAmount": 0,
      "time": 1778976000000,
-     "usdValue": 254.6381148378905
+     "usdValue": 253.81628447552353
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1075.1165218507977,
+     "kntqAmount": 1071.646643033552,
      "lockedKntqAmount": 0,
      "time": 1779062400000,
-     "usdValue": 171.54401180522612
+     "usdValue": 170.99036304186828
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1234.9744821691172,
+     "kntqAmount": 1230.9886706701548,
      "lockedKntqAmount": 0,
      "time": 1779148800000,
-     "usdValue": 203.8722921105938
+     "usdValue": 203.2143056194179
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1524.9640248277137,
+     "kntqAmount": 1520.0422881979928,
      "lockedKntqAmount": 0,
      "time": 1779235200000,
-     "usdValue": 280.48073147578526
+     "usdValue": 279.57549550460146
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2788.1284269438265,
+     "kntqAmount": 2779.1298974153638,
      "lockedKntqAmount": 0,
      "time": 1779408000000,
-     "usdValue": 549.3829740324857
+     "usdValue": 547.6098710195498
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 36.01803745109134,
+     "kntqAmount": 35.9017912371692,
      "lockedKntqAmount": 0,
      "time": 1779494400000,
-     "usdValue": 6.494714884320868
+     "usdValue": 6.473753553020369
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 6.062376713698159,
+     "kntqAmount": 6.042810729813164,
      "lockedKntqAmount": 0,
      "time": 1779580800000,
-     "usdValue": 1.1720221335331653
+     "usdValue": 1.1682394972404138
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1607.9740469705162,
+     "kntqAmount": 1602.7844001081849,
      "lockedKntqAmount": 0,
      "time": 1779667200000,
-     "usdValue": 322.30807452185843
+     "usdValue": 321.267843125837
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 58.91732361193323,
+     "kntqAmount": 58.72717122471299,
      "lockedKntqAmount": 0,
      "time": 1779753600000,
-     "usdValue": 11.474028582083827
+     "usdValue": 11.436996792583555
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 200.4581390443929,
+     "kntqAmount": 199.811171542473,
      "lockedKntqAmount": 0,
      "time": 1779840000000,
-     "usdValue": 39.366843343024115
+     "usdValue": 39.239789044218774
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 498.7967366641525,
+     "kntqAmount": 497.1868979206434,
      "lockedKntqAmount": 0,
      "time": 1779926400000,
-     "usdValue": 91.10692484857948
+     "usdValue": 90.81288231252742
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 394.1884542861692,
+     "kntqAmount": 392.9162329597071,
      "lockedKntqAmount": 0,
      "time": 1780012800000,
-     "usdValue": 74.63420708856968
+     "usdValue": 74.39332933350296
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 683.3148923046832,
+     "kntqAmount": 681.1095314697155,
      "lockedKntqAmount": 0,
      "time": 1780099200000,
-     "usdValue": 148.29602501293525
+     "usdValue": 147.81740783478205
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 3606.1513327567345,
+     "kntqAmount": 3594.5126797670346,
      "lockedKntqAmount": 0,
      "time": 1780185600000,
-     "usdValue": 894.4019448704113
+     "usdValue": 891.5153123059089
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1172.7404648486538,
+     "kntqAmount": 1168.9555101815076,
      "lockedKntqAmount": 0,
      "time": 1780272000000,
-     "usdValue": 421.9967593012796
+     "usdValue": 420.6347882160199
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 645.4665459298142,
+     "kntqAmount": 643.383338529088,
      "lockedKntqAmount": 0,
      "time": 1780444800000,
-     "usdValue": 208.8119260369738
+     "usdValue": 208.1379971518548
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 148.80451081823176,
+     "kntqAmount": 148.32425253040458,
      "lockedKntqAmount": 0,
      "time": 1780531200000,
-     "usdValue": 35.901420001582935
+     "usdValue": 35.78555016399726
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1014.1163268885994,
+     "kntqAmount": 1010.8433228100871,
      "lockedKntqAmount": 0,
      "time": 1780617600000,
-     "usdValue": 227.01056852613564
+     "usdValue": 226.27790453389812
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 597.580270628837,
+     "kntqAmount": 595.6516135200342,
      "lockedKntqAmount": 0,
      "time": 1780704000000,
-     "usdValue": 132.2581925025563
+     "usdValue": 131.83133653741703
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 567.3413007347755,
+     "kntqAmount": 565.5102382205661,
      "lockedKntqAmount": 0,
      "time": 1780790400000,
-     "usdValue": 133.16732026209075
+     "usdValue": 132.73753013763863
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1424.7494501926026,
+     "kntqAmount": 1420.1511505323992,
      "lockedKntqAmount": 0,
      "time": 1780876800000,
-     "usdValue": 354.56136723811835
+     "usdValue": 353.4170401325547
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 290.2126760719103,
+     "kntqAmount": 289.2760307904626,
      "lockedKntqAmount": 0,
      "time": 1780963200000,
-     "usdValue": 68.7189226736169
+     "usdValue": 68.49713617021666
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 439.79595764172785,
+     "kntqAmount": 438.3765406331377,
      "lockedKntqAmount": 0,
      "time": 1781049600000,
-     "usdValue": 101.47476340877402
+     "usdValue": 101.1472592500332
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 895.601737688729,
+     "kntqAmount": 892.7112328595923,
      "lockedKntqAmount": 0,
      "time": 1781136000000,
-     "usdValue": 189.1480240419167
+     "usdValue": 188.53755930752953
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1098.9948717484046,
+     "kntqAmount": 1095.447926884069,
      "lockedKntqAmount": 0,
      "time": 1781222400000,
-     "usdValue": 240.03137102903062
+     "usdValue": 239.2566831204361
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 604.0801293891112,
+     "kntqAmount": 602.1304943474341,
      "lockedKntqAmount": 0,
      "time": 1781308800000,
-     "usdValue": 126.62631019433846
+     "usdValue": 126.21763081631819
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 352.9961813846095,
+     "kntqAmount": 351.856905829392,
      "lockedKntqAmount": 0,
      "time": 1781395200000,
-     "usdValue": 73.71804931846208
+     "usdValue": 73.48012841167659
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1490.3150953476845,
+     "kntqAmount": 1485.5051862120067,
      "lockedKntqAmount": 0,
      "time": 1781481600000,
-     "usdValue": 339.8493380956505
+     "usdValue": 338.7524932464216
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 4249.575856563525,
+     "kntqAmount": 4235.860586686002,
      "lockedKntqAmount": 0,
      "time": 1781568000000,
-     "usdValue": 1035.0079974908433
+     "usdValue": 1031.667566706661
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 631.1385696654442,
+     "kntqAmount": 629.101605011735,
      "lockedKntqAmount": 0,
      "time": 1781654400000,
-     "usdValue": 146.54467038364635
+     "usdValue": 146.07170560521556
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2941.0732046004387,
+     "kntqAmount": 2931.5810543030516,
      "lockedKntqAmount": 0,
      "time": 1781740800000,
-     "usdValue": 592.2010303630673
+     "usdValue": 590.2897344532338
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 581.6042696267626,
+     "kntqAmount": 579.7271741732175,
      "lockedKntqAmount": 0,
      "time": 1781827200000,
-     "usdValue": 114.20414589834482
+     "usdValue": 113.83555836514226
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 658.1008166002107,
+     "kntqAmount": 655.9768327931328,
      "lockedKntqAmount": 0,
      "time": 1781913600000,
-     "usdValue": 127.97806887577242
+     "usdValue": 127.56502677174115
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1129.8707381962165,
+     "kntqAmount": 1126.2241431890598,
      "lockedKntqAmount": 0,
      "time": 1782000000000,
-     "usdValue": 214.22105144120812
+     "usdValue": 213.52966490449646
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 722.6904726915454,
+     "kntqAmount": 720.358029359449,
      "lockedKntqAmount": 0,
      "time": 1782086400000,
-     "usdValue": 133.16930617430387
+     "usdValue": 132.73950964043044
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1151.040301164873,
+     "kntqAmount": 1147.3253825698798,
      "lockedKntqAmount": 0,
      "time": 1782172800000,
-     "usdValue": 191.3116920015028
+     "usdValue": 190.69424414903685
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1336.1123371876652,
+     "kntqAmount": 1331.8001088830651,
      "lockedKntqAmount": 0,
      "time": 1782259200000,
-     "usdValue": 214.7152968379337
+     "usdValue": 214.0223151516752
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1620.395725963661,
+     "kntqAmount": 1615.1659888228,
      "lockedKntqAmount": 0,
      "time": 1782345600000,
-     "usdValue": 259.4965721189382
+     "usdValue": 258.659061355739
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 204.8399873341953,
+     "kntqAmount": 204.17887766047158,
      "lockedKntqAmount": 0,
      "time": 1782432000000,
-     "usdValue": 33.12601195693002
+     "usdValue": 33.019099594545985
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1212.2592371503592,
+     "kntqAmount": 1208.346737842138,
      "lockedKntqAmount": 0,
      "time": 1782518400000,
-     "usdValue": 203.20083294592266
+     "usdValue": 202.54501355187975
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 776.1625503884144,
+     "kntqAmount": 773.6575288976314,
      "lockedKntqAmount": 0,
      "time": 1782604800000,
-     "usdValue": 128.0924807480042
+     "usdValue": 127.67906938601453
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1056.842422387191,
+     "kntqAmount": 1053.4315222102548,
      "lockedKntqAmount": 0,
      "time": 1782691200000,
-     "usdValue": 172.44107831237935
+     "usdValue": 171.88453431673034
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 11374.787091122158,
+     "kntqAmount": 11338.075598017935,
      "lockedKntqAmount": 0,
      "time": 1782777600000,
-     "usdValue": 1883.9396708938216
+     "usdValue": 1877.8593603189738
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 435.26784276406414,
+     "kntqAmount": 433.86303999456044,
      "lockedKntqAmount": 0,
      "time": 1782864000000,
-     "usdValue": 68.80690553950818
+     "usdValue": 68.58483507629852
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1078.4209168672553,
+     "kntqAmount": 1074.9403732987587,
      "lockedKntqAmount": 0,
      "time": 1782950400000,
-     "usdValue": 168.087709544403
+     "usdValue": 167.5452158044841
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2094.258621406991,
+     "kntqAmount": 2087.4995181092904,
      "lockedKntqAmount": 0,
      "time": 1783036800000,
-     "usdValue": 356.18916075924506
+     "usdValue": 355.03958004056784
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 61.8580287342495,
+     "kntqAmount": 61.65838538469699,
      "lockedKntqAmount": 0,
      "time": 1783123200000,
-     "usdValue": 10.430907212417935
+     "usdValue": 10.397242039159584
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1060.3958659181153,
+     "kntqAmount": 1056.9734971996904,
      "lockedKntqAmount": 0,
      "time": 1783209600000,
-     "usdValue": 170.35973232392286
+     "usdValue": 169.80990575676643
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2329.027475899422,
+     "kntqAmount": 2321.510669172748,
      "lockedKntqAmount": 0,
      "time": 1783296000000,
-     "usdValue": 381.2602140660518
+     "usdValue": 380.0297179163238
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 27.17352089501062,
+     "kntqAmount": 27.08581986667812,
      "lockedKntqAmount": 0,
      "time": 1783382400000,
-     "usdValue": 4.383402502796341
+     "usdValue": 4.369255314856441
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2848.1091481810217,
+     "kntqAmount": 2838.917034208609,
      "lockedKntqAmount": 0,
      "time": 1783468800000,
-     "usdValue": 436.4339926743263
+     "usdValue": 435.0254262208041
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 446.81895005408256,
+     "kntqAmount": 445.37686672783286,
      "lockedKntqAmount": 0,
      "time": 1783555200000,
-     "usdValue": 66.40719301778037
+     "usdValue": 66.19286749335399
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1116.4585752522394,
+     "kntqAmount": 1112.8552672555109,
      "lockedKntqAmount": 0,
      "time": 1783641600000,
-     "usdValue": 157.64487748623364
+     "usdValue": 157.13608740634993
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 986.0647672274184,
+     "kntqAmount": 982.8822979985534,
      "lockedKntqAmount": 0,
      "time": 1783728000000,
-     "usdValue": 133.85807521687326
+     "usdValue": 133.42605571919805
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1311.557559226075,
+     "kntqAmount": 1307.3245801025446,
      "lockedKntqAmount": 0,
      "time": 1783814400000,
-     "usdValue": 177.7603930362106
+     "usdValue": 177.1866812479481
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1795.7254409090858,
+     "kntqAmount": 1789.9298368583984,
      "lockedKntqAmount": 0,
      "time": 1783900800000,
-     "usdValue": 232.56734684185884
+     "usdValue": 231.81674865646366
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 3633.5146049008627,
+     "kntqAmount": 3621.7876384712204,
      "lockedKntqAmount": 0,
      "time": 1783987200000,
-     "usdValue": 443.1658599988215
+     "usdValue": 441.7355668176794
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 71.07897311554682,
+     "kntqAmount": 70.84956968052134,
      "lockedKntqAmount": 0,
      "time": 1784073600000,
-     "usdValue": 8.624712646784213
+     "usdValue": 8.596876866094703
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1417.545930550185,
+     "kntqAmount": 1412.970879849242,
      "lockedKntqAmount": 0,
      "time": 1784160000000,
-     "usdValue": 169.71269551320742
+     "usdValue": 169.16495722139402
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2686.166998795429,
+     "kntqAmount": 2677.4975441091046,
      "lockedKntqAmount": 0,
      "time": 1784246400000,
-     "usdValue": 308.43587537461656
+     "usdValue": 307.44041573029955
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1738.9823503599555,
+     "kntqAmount": 1733.3698814801262,
      "lockedKntqAmount": 0,
      "time": 1784419200000,
-     "usdValue": 193.98078576000995
+     "usdValue": 193.35472355579176
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1234.6081568409602,
+     "kntqAmount": 1230.6235276366333,
      "lockedKntqAmount": 0,
      "time": 1784505600000,
-     "usdValue": 140.29663623742874
+     "usdValue": 139.84383664192723
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 4095.798281758009,
+     "kntqAmount": 4082.5793204559195,
      "lockedKntqAmount": 0,
      "time": 1784592000000,
-     "usdValue": 538.207062558961
+     "usdValue": 536.4700291791276
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1282.6617822019227,
+     "kntqAmount": 1278.5220625926556,
      "lockedKntqAmount": 0,
      "time": 1784678400000,
-     "usdValue": 149.3380025105619
+     "usdValue": 148.8560224079502
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 562.135440076121,
+     "kntqAmount": 560.3211791878357,
      "lockedKntqAmount": 0,
      "time": 1784764800000,
-     "usdValue": 58.75896073652958
+     "usdValue": 58.569319456687595
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2206.809223429743,
+     "kntqAmount": 2199.686869319791,
      "lockedKntqAmount": 0,
      "time": 1784851200000,
-     "usdValue": 238.7632081664663
+     "usdValue": 237.99261318302376
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 707.4317489806947,
+     "kntqAmount": 705.1485523312662,
      "lockedKntqAmount": 0,
      "time": 1784937600000,
-     "usdValue": 76.43994591467377
+     "usdValue": 76.19324023791222
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 510.24154811554496,
+     "kntqAmount": 508.59477187920095,
      "lockedKntqAmount": 0,
      "time": 1785024000000,
-     "usdValue": 60.332455656918015
+     "usdValue": 60.13773600967832
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2574.2330883323093,
+     "kntqAmount": 2565.924894120504,
      "lockedKntqAmount": 0,
      "time": 1785110400000,
-     "usdValue": 309.6835870293916
+     "usdValue": 308.684100465059
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 4214.485931124898,
+     "kntqAmount": 4200.883912031363,
      "lockedKntqAmount": 0,
      "time": 1785196800000,
-     "usdValue": 442.22600875293557
+     "usdValue": 440.7987488894509
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 6717.378699135123,
+     "kntqAmount": 6695.69873274839,
      "lockedKntqAmount": 0,
      "time": 1785283200000,
-     "usdValue": 686.9517250602485
+     "usdValue": 684.7346265497042
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1537.3189394924652,
+     "kntqAmount": 1532.3573280623737,
      "lockedKntqAmount": 0,
      "time": 1785369600000,
-     "usdValue": 140.4823569373368
+     "usdValue": 140.028957938599
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1213.8563101637635,
+     "kntqAmount": 1209.9386563911598,
      "lockedKntqAmount": 0,
      "time": 1785456000000,
-     "usdValue": 110.73979557359951
+     "usdValue": 110.38238903851487
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1863.3572663323341,
+     "kntqAmount": 1857.3433843241992,
      "lockedKntqAmount": 0,
      "time": 1785542400000,
-     "usdValue": 169.51566642936803
+     "usdValue": 168.96856403797148
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 683.0201629339476,
+     "kntqAmount": 680.8157533216424,
      "lockedKntqAmount": 0,
      "time": 1785628800000,
-     "usdValue": 62.43908732819746
+     "usdValue": 62.23756864432933
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1515.3025237268223,
+     "kntqAmount": 1510.4119690548998,
      "lockedKntqAmount": 0,
      "time": 1785715200000,
-     "usdValue": 144.548374770409
+     "usdValue": 144.081852925112
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2109.7246659270627,
+     "kntqAmount": 2102.915646830306,
      "lockedKntqAmount": 0,
      "time": 1785801600000,
-     "usdValue": 208.75508267707693
+     "usdValue": 208.0813372507425
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 7381.525640605935,
+     "kntqAmount": 7357.702176880161,
      "lockedKntqAmount": 0,
      "time": 1785888000000,
-     "usdValue": 763.7228332169601
+     "usdValue": 761.2579602219248
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 4869.982499678774,
+     "kntqAmount": 4854.264901843981,
      "lockedKntqAmount": 0,
      "time": 1785974400000,
-     "usdValue": 472.15147521988166
+     "usdValue": 470.62763257668945
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 693.4371551192879,
+     "kntqAmount": 691.1991252437007,
      "lockedKntqAmount": 0,
      "time": 1786060800000,
-     "usdValue": 68.26140573459016
+     "usdValue": 68.04109584168096
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 164.5837327471473,
+     "kntqAmount": 164.05254789758385,
      "lockedKntqAmount": 0,
      "time": 1786147200000,
-     "usdValue": 16.096769647170632
+     "usdValue": 16.04481821782356
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1450.9184314886982,
+     "kntqAmount": 1446.2356728958835,
      "lockedKntqAmount": 0,
      "time": 1786233600000,
-     "usdValue": 138.74836972966395
+     "usdValue": 138.30056707826063
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 3548.7335710996317,
+     "kntqAmount": 3537.2802307442917,
      "lockedKntqAmount": 0,
      "time": 1786320000000,
-     "usdValue": 334.9197863977342
+     "usdValue": 333.8388514026163
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1460.3748079753816,
+     "kntqAmount": 1455.6615294530595,
      "lockedKntqAmount": 0,
      "time": 1786406400000,
-     "usdValue": 140.1654889396461
+     "usdValue": 139.71311261475876
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 3353.6288770187625,
+     "kntqAmount": 3342.805226219277,
      "lockedKntqAmount": 0,
      "time": 1786492800000,
-     "usdValue": 353.6553234841526
+     "usdValue": 352.51392058444526
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 4.337924389543763,
+     "kntqAmount": 4.323923979686626,
      "lockedKntqAmount": 0,
      "time": 1786579200000,
-     "usdValue": 0.5069732234059795
+     "usdValue": 0.505336995505976
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1203.618088252476,
+     "kntqAmount": 1199.7334777720312,
      "lockedKntqAmount": 0,
      "time": 1786665600000,
-     "usdValue": 142.6431146578921
+     "usdValue": 142.18274193371028
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1573.9883683843925,
+     "kntqAmount": 1568.908408410709,
      "lockedKntqAmount": 0,
      "time": 1786752000000,
-     "usdValue": 204.63411759446905
+     "usdValue": 203.97367235388765
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2199.8354257856777,
+     "kntqAmount": 2192.735579220005,
      "lockedKntqAmount": 0,
      "time": 1786838400000,
-     "usdValue": 290.1690278580087
+     "usdValue": 289.23252344874527
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 8891.426403078949,
+     "kntqAmount": 8862.729818565458,
      "lockedKntqAmount": 0,
      "time": 1786924800000,
-     "usdValue": 1109.7351060549304
+     "usdValue": 1106.1534976813327
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 7.963403116892307,
+     "kntqAmount": 7.9377016759536785,
      "lockedKntqAmount": 0,
      "time": 1787011200000,
-     "usdValue": 1.0511692114297846
+     "usdValue": 1.0477766212258857
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 6870.212349324079,
+     "kntqAmount": 6848.039120826148,
      "lockedKntqAmount": 0,
      "time": 1787097600000,
-     "usdValue": 877.7504900255025
+     "usdValue": 874.9175991059924
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 8331.835913783814,
+     "kntqAmount": 8304.945376471416,
      "lockedKntqAmount": 0,
      "time": 1787184000000,
-     "usdValue": 1172.299811182634
+     "usdValue": 1168.5162787007025
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 4139.779283086989,
+     "kntqAmount": 4126.418375547659,
      "lockedKntqAmount": 0,
      "time": 1787270400000,
-     "usdValue": 654.452366547947
+     "usdValue": 652.3401579106248
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 3835.341851916318,
+     "kntqAmount": 3822.9634992648766,
      "lockedKntqAmount": 0,
      "time": 1787356800000,
-     "usdValue": 642.7092517989659
+     "usdValue": 640.6349434117914
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 152.33862783304232,
+     "kntqAmount": 151.8469633789828,
      "lockedKntqAmount": 0,
      "time": 1787443200000,
-     "usdValue": 31.97737242409462
+     "usdValue": 31.874167231959238
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 7117.548710158514,
+     "kntqAmount": 7094.577217303417,
      "lockedKntqAmount": 0,
      "time": 1787529600000,
-     "usdValue": 1458.2813162719015
+     "usdValue": 1453.5747943776921
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1118.2691184209007,
+     "kntqAmount": 1114.6599669967288,
      "lockedKntqAmount": 0,
      "time": 1787616000000,
-     "usdValue": 245.67759720230293
+     "usdValue": 244.88468641256216
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1076.8361425459236,
+     "kntqAmount": 1073.3607137484644,
      "lockedKntqAmount": 0,
      "time": 1787702400000,
-     "usdValue": 220.33366140877507
+     "usdValue": 219.6225467631436
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2138.0015551965703,
+     "kntqAmount": 2131.1012740113797,
      "lockedKntqAmount": 0,
      "time": 1787788800000,
-     "usdValue": 411.350836439338
+     "usdValue": 410.02322447839447
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 393.260342273704,
+     "kntqAmount": 391.99111637717584,
      "lockedKntqAmount": 0,
      "time": 1787875200000,
-     "usdValue": 71.9756129044951
+     "usdValue": 71.74331561438775
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1764.7156065654854,
+     "kntqAmount": 1759.0200850315562,
      "lockedKntqAmount": 0,
      "time": 1787961600000,
-     "usdValue": 331.1814955164226
+     "usdValue": 330.1126256473429
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1106.6038089902097,
+     "kntqAmount": 1103.0323067038453,
      "lockedKntqAmount": 0,
      "time": 1788048000000,
-     "usdValue": 207.59686054763097
+     "usdValue": 206.92685321884315
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 222.11042567689185,
+     "kntqAmount": 221.393576623341,
      "lockedKntqAmount": 0,
      "time": 1788134400000,
-     "usdValue": 39.45802151339991
+     "usdValue": 39.330672942117545
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2596.751115038906,
+     "kntqAmount": 2588.3702451475,
      "lockedKntqAmount": 0,
      "time": 1788220800000,
-     "usdValue": 458.53389641339163
+     "usdValue": 457.0540037489063
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1450.7668940328056,
+     "kntqAmount": 1446.0846245187072,
      "lockedKntqAmount": 0,
      "time": 1788307200000,
-     "usdValue": 259.82219535301726
+     "usdValue": 258.98363365892885
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 2.8945850270446942,
+     "kntqAmount": 2.885242914756467,
      "lockedKntqAmount": 0,
      "time": 1788393600000,
-     "usdValue": 0.5710147882851068
+     "usdValue": 0.5691718697940082
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 621.6584742726209,
+     "kntqAmount": 619.6521060998703,
      "lockedKntqAmount": 0,
      "time": 1788480000000,
-     "usdValue": 125.9752914780688
+     "usdValue": 125.56871322677043
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 483.29862769689225,
+     "kntqAmount": 481.7388082386605,
      "lockedKntqAmount": 0,
      "time": 1788566400000,
-     "usdValue": 97.51669616705176
+     "usdValue": 97.20196645033666
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 430.3426558280623,
+     "kntqAmount": 428.95374882564323,
      "lockedKntqAmount": 0,
      "time": 1788652800000,
-     "usdValue": 91.03571393281571
+     "usdValue": 90.74190122603625
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 675.3677410308866,
+     "kntqAmount": 673.1880291849372,
      "lockedKntqAmount": 0,
      "time": 1788739200000,
-     "usdValue": 156.7514276673352
+     "usdValue": 156.24552114708234
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 631.5409125918134,
+     "kntqAmount": 629.5026493986724,
      "lockedKntqAmount": 0,
      "time": 1788825600000,
-     "usdValue": 134.17328568182597
+     "usdValue": 133.74024885989513
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 603.1845210628375,
+     "kntqAmount": 601.2377765472538,
      "lockedKntqAmount": 0,
      "time": 1788912000000,
-     "usdValue": 132.76888718529898
+     "usdValue": 132.34038298145651
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 954.9016384719151,
+     "kntqAmount": 951.8197465090024,
      "lockedKntqAmount": 0,
      "time": 1788998400000,
-     "usdValue": 195.41268508066173
+     "usdValue": 194.78200150097382
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 1094.8212227458282,
+     "kntqAmount": 1091.2877481016687,
      "lockedKntqAmount": 0,
      "time": 1789084800000,
-     "usdValue": 219.8893137413247
+     "usdValue": 219.17963320309224
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 613.9168868520347,
+     "kntqAmount": 611.9355042223918,
      "lockedKntqAmount": 0,
      "time": 1789171200000,
-     "usdValue": 124.9518177631325
+     "usdValue": 124.54854271636245
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 907.6373255986005,
+     "kntqAmount": 904.7079765784455,
      "lockedKntqAmount": 0,
      "time": 1789257600000,
-     "usdValue": 186.6329704580785
+     "usdValue": 186.03062291934168
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 587.8656216086324,
+     "kntqAmount": 585.9683179895836,
      "lockedKntqAmount": 0,
      "time": 1789344000000,
-     "usdValue": 120.42656526245264
+     "usdValue": 120.03789521660637
     },
     {
-     "burnedKntqAmount": 73060.04064100987,
-     "kntqAmount": 1022.4486907676643,
+     "burnedKntqAmount": 72824.24342065748,
+     "kntqAmount": 1019.1487944478611,
      "lockedKntqAmount": 0,
      "time": 1789430400000,
-     "usdValue": 204.4771211366888
+     "usdValue": 203.81718259344873
     },
     {
      "burnedKntqAmount": 0,
-     "kntqAmount": 678.9396325999196,
+     "kntqAmount": 676.7483926724638,
      "lockedKntqAmount": 0,
      "time": 1789516800000,
-     "usdValue": 133.16400815368604
+     "usdValue": 132.7342287188797
     },
     {
-     "burnedKntqAmount": 4763.5777884704485,
-     "kntqAmount": 3559.5704757714448,
+     "burnedKntqAmount": 4748.203605926904,
+     "kntqAmount": 3548.082159908612,
      "lockedKntqAmount": 0,
      "time": 1789603200000,
-     "usdValue": 743.4300694026075
+     "usdValue": 741.0306901748725
     },
     {
-     "burnedKntqAmount": 4147.471538804769,
-     "kntqAmount": 4150.376802502393,
+     "burnedKntqAmount": 4134.085804937659,
+     "kntqAmount": 4136.98169205818,
      "lockedKntqAmount": 0,
      "time": 1789689600000,
-     "usdValue": 997.8271992773496
+     "usdValue": 994.6067674528218
     },
     {
-     "burnedKntqAmount": 991.9896591087069,
-     "kntqAmount": 992.6845382353988,
+     "burnedKntqAmount": 988.7880676206117,
+     "kntqAmount": 989.480704063545,
      "lockedKntqAmount": 0,
      "time": 1789776000000,
-     "usdValue": 282.2926206305428
+     "usdValue": 281.38153688782023
     },
     {
-     "burnedKntqAmount": 625.1548231588362,
-     "kntqAmount": 625.5927380187877,
+     "burnedKntqAmount": 623.1371707143891,
+     "kntqAmount": 623.5736722284702,
      "lockedKntqAmount": 0,
      "time": 1789862400000,
-     "usdValue": 187.57199613807305
+     "usdValue": 186.9666179461469
     },
     {
-     "burnedKntqAmount": 1033.8988421209644,
-     "kntqAmount": 1034.623078202353,
+     "burnedKntqAmount": 1030.5619910740895,
+     "kntqAmount": 1031.2838897237798,
      "lockedKntqAmount": 0,
      "time": 1789948800000,
-     "usdValue": 329.319811901885
+     "usdValue": 328.2569505131952
     },
     {
-     "burnedKntqAmount": 537.606416998865,
-     "kntqAmount": 537.9830050408999,
+     "burnedKntqAmount": 535.8713221691917,
+     "kntqAmount": 536.2466947942524,
      "lockedKntqAmount": 0,
      "time": 1790035200000,
-     "usdValue": 165.97409449491698
+     "usdValue": 165.43842233009156
     },
     {
-     "burnedKntqAmount": 879.459464650075,
-     "kntqAmount": 880.0755174253034,
+     "burnedKntqAmount": 876.6210581099522,
+     "kntqAmount": 877.2351226090898,
      "lockedKntqAmount": 0,
      "time": 1790121600000,
-     "usdValue": 298.9985372343108
+     "usdValue": 298.0335360742963
     },
     {
-     "burnedKntqAmount": 482.2141351147242,
-     "kntqAmount": 482.55192139249533,
+     "burnedKntqAmount": 480.6578157960232,
+     "kntqAmount": 480.99451188735765,
      "lockedKntqAmount": 0,
      "time": 1790208000000,
-     "usdValue": 158.22416665374993
+     "usdValue": 157.71350695027607
     },
     {
-     "burnedKntqAmount": 458.03515256379154,
-     "kntqAmount": 458.3560016960182,
+     "burnedKntqAmount": 456.55686956735974,
+     "kntqAmount": 456.8766831768455,
      "lockedKntqAmount": 0,
      "time": 1790294400000,
-     "usdValue": 145.41890514160198
+     "usdValue": 144.94957370791772
     },
     {
-     "burnedKntqAmount": 1111.783731660724,
-     "kntqAmount": 1112.5625252992975,
+     "burnedKntqAmount": 1108.1955114618504,
+     "kntqAmount": 1108.9717915872423,
      "lockedKntqAmount": 0,
      "time": 1790380800000,
-     "usdValue": 358.60891884089614
+     "usdValue": 357.4515284875052
     },
     {
-     "burnedKntqAmount": 401.3752363767592,
-     "kntqAmount": 401.656395808144,
+     "burnedKntqAmount": 400.07982011055475,
+     "kntqAmount": 400.36007211550213,
      "lockedKntqAmount": 0,
      "time": 1790467200000,
-     "usdValue": 129.59872178124093
+     "usdValue": 129.18044911003622
     },
     {
-     "burnedKntqAmount": 585.4942864607008,
-     "kntqAmount": 585.904419462084,
+     "burnedKntqAmount": 583.6046361940386,
+     "kntqAmount": 584.0134455139557,
      "lockedKntqAmount": 0,
      "time": 1790553600000,
-     "usdValue": 185.69896648956527
+     "usdValue": 185.0996333967231
     },
     {
-     "burnedKntqAmount": 736.3326696446652,
-     "kntqAmount": 736.8484634619143,
+     "burnedKntqAmount": 733.956196880162,
+     "kntqAmount": 734.4703260015347,
      "lockedKntqAmount": 0,
      "time": 1790640000000,
-     "usdValue": 217.95233332255327
+     "usdValue": 217.24890428096134
     },
     {
-     "burnedKntqAmount": 570.5469119339594,
-     "kntqAmount": 570.9465744680051,
+     "burnedKntqAmount": 568.7055034877787,
+     "kntqAmount": 569.1038761332097,
      "lockedKntqAmount": 0,
      "time": 1790726400000,
-     "usdValue": 170.50461313785547
+     "usdValue": 169.9543189759248
     },
     {
-     "burnedKntqAmount": 857.4128114356225,
-     "kntqAmount": 858.0134208033912,
+     "burnedKntqAmount": 854.6455592433542,
+     "kntqAmount": 855.2442301777716,
      "lockedKntqAmount": 0,
      "time": 1790812800000,
-     "usdValue": 295.0874093938446
+     "usdValue": 294.1350311815473
     },
     {
-     "burnedKntqAmount": 783.2873705785915,
-     "kntqAmount": 783.8360557635996,
+     "burnedKntqAmount": 780.7593541266559,
+     "kntqAmount": 781.3062684607263,
      "lockedKntqAmount": 0,
      "time": 1790899200000,
-     "usdValue": 250.75377103314398
+     "usdValue": 249.9444771745076
     },
     {
-     "burnedKntqAmount": 505.1952734720436,
-     "kntqAmount": 505.54915785091396,
+     "burnedKntqAmount": 503.5647838066299,
+     "kntqAmount": 503.91752604333703,
      "lockedKntqAmount": 0,
      "time": 1790985600000,
-     "usdValue": 152.14992793755528
+     "usdValue": 151.65887250192014
     },
     {
-     "burnedKntqAmount": 987.4831490214451,
-     "kntqAmount": 988.1748713958438,
+     "burnedKntqAmount": 984.2961020441762,
+     "kntqAmount": 984.9855919230588,
      "lockedKntqAmount": 0,
      "time": 1791072000000,
-     "usdValue": 311.07144141219356
+     "usdValue": 310.06747562498003
     },
     {
-     "burnedKntqAmount": 356.47517388526893,
-     "kntqAmount": 356.7248812775658,
+     "burnedKntqAmount": 355.32467007512463,
+     "kntqAmount": 355.5735715506921,
      "lockedKntqAmount": 0,
      "time": 1791158400000,
-     "usdValue": 114.66400847065567
+     "usdValue": 114.29393675656104
     },
     {
-     "burnedKntqAmount": 412.9858533358097,
-     "kntqAmount": 413.27514590456065,
+     "burnedKntqAmount": 411.6529644487101,
+     "kntqAmount": 411.94132334177493,
      "lockedKntqAmount": 0,
      "time": 1791244800000,
-     "usdValue": 140.04817286400188
+     "usdValue": 139.596175170228
     },
     {
-     "burnedKntqAmount": 292.2480780672646,
-     "kntqAmount": 292.4527949851012,
+     "burnedKntqAmount": 291.3048636390084,
+     "kntqAmount": 291.5089198443712,
      "lockedKntqAmount": 0,
      "time": 1791331200000,
-     "usdValue": 91.99138053044553
+     "usdValue": 91.69448346283998
     },
     {
-     "burnedKntqAmount": 1491.5977730742622,
-     "kntqAmount": 1492.64262282239,
+     "burnedKntqAmount": 1486.7837241675156,
+     "kntqAmount": 1487.825201721156,
      "lockedKntqAmount": 0,
      "time": 1791417600000,
-     "usdValue": 431.9664911604722
+     "usdValue": 430.57234331977367
     },
     {
-     "burnedKntqAmount": 861.6041686761579,
-     "kntqAmount": 862.2077140390893,
+     "burnedKntqAmount": 858.8233891113595,
+     "kntqAmount": 859.4249865651782,
      "lockedKntqAmount": 0,
      "time": 1791504000000,
-     "usdValue": 250.31547101781146
+     "usdValue": 249.50759174811301
     },
     {
-     "burnedKntqAmount": 645.3864943892354,
-     "kntqAmount": 599.2959381729396,
+     "burnedKntqAmount": 643.303545350407,
+     "kntqAmount": 597.3617438424983,
      "lockedKntqAmount": 0,
      "time": 1791590400000,
-     "usdValue": 177.62874509488452
+     "usdValue": 177.0554581930354
     },
     {
-     "burnedKntqAmount": 525.3848072948209,
-     "kntqAmount": 525.7528342528828,
+     "burnedKntqAmount": 523.689157031167,
+     "kntqAmount": 524.0559962026774,
      "lockedKntqAmount": 0,
      "time": 1791676800000,
-     "usdValue": 164.89337031736594
+     "usdValue": 164.36118612975483
     },
     {
-     "burnedKntqAmount": 743.5412421739743,
-     "kntqAmount": 744.0620856013916,
+     "burnedKntqAmount": 741.1415041422989,
+     "kntqAmount": 741.6606665765037,
      "lockedKntqAmount": 0,
      "time": 1791763200000,
-     "usdValue": 262.2221444296376
+     "usdValue": 261.37583703329807
     },
     {
-     "burnedKntqAmount": 234.7217110484676,
-     "kntqAmount": 234.88613130612129,
+     "burnedKntqAmount": 233.9641597723393,
+     "kntqAmount": 234.12804937275018,
      "lockedKntqAmount": 0,
      "time": 1791849600000,
-     "usdValue": 74.75284012875693
+     "usdValue": 74.51157949214686
     },
     {
-     "burnedKntqAmount": 479.2315952968866,
-     "kntqAmount": 479.5672923699204,
+     "burnedKntqAmount": 477.68490195967246,
+     "kntqAmount": 478.0195155890617,
      "lockedKntqAmount": 0,
      "time": 1791936000000,
-     "usdValue": 147.8064904337672
+     "usdValue": 147.329453201259
     },
     {
-     "burnedKntqAmount": 723.6313077312668,
-     "kntqAmount": 724.1382044440703,
+     "burnedKntqAmount": 721.2958279063731,
+     "kntqAmount": 721.8010886382103,
      "lockedKntqAmount": 0,
      "time": 1792022400000,
-     "usdValue": 215.31957681448043
+     "usdValue": 214.62464484818466
     },
     {
-     "burnedKntqAmount": 612.1084611197585,
-     "kntqAmount": 612.5372371449107,
+     "burnedKntqAmount": 610.1329150836509,
+     "kntqAmount": 610.560307258014,
      "lockedKntqAmount": 0,
      "time": 1792108800000,
-     "usdValue": 185.47470731215185
+     "usdValue": 184.87609800334005
     },
     {
-     "burnedKntqAmount": 761.7099352289455,
-     "kntqAmount": 762.2435056354524,
+     "burnedKntqAmount": 759.2515587502859,
+     "kntqAmount": 759.7834070879626,
      "lockedKntqAmount": 0,
      "time": 1792195200000,
-     "usdValue": 236.56648718054882
+     "usdValue": 235.80298199199038
     },
     {
-     "burnedKntqAmount": 678.5653291519427,
-     "kntqAmount": 679.0406575705144,
+     "burnedKntqAmount": 676.3752972680608,
+     "kntqAmount": 676.8490915905811,
      "lockedKntqAmount": 0,
      "time": 1792281600000,
-     "usdValue": 203.81214526554214
+     "usdValue": 203.15435289496557
     },
     {
-     "burnedKntqAmount": 493.63250003101246,
-     "kntqAmount": 493.97828480577914,
+     "burnedKntqAmount": 492.0393285741987,
+     "kntqAmount": 492.3839973478242,
      "lockedKntqAmount": 0,
      "time": 1792368000000,
-     "usdValue": 148.9172426654998
+     "usdValue": 148.43662054190142
     },
     {
-     "burnedKntqAmount": 740.3049999832078,
-     "kntqAmount": 740.8235764353217,
+     "burnedKntqAmount": 737.9157067433266,
+     "kntqAmount": 738.4326095187647,
      "lockedKntqAmount": 0,
      "time": 1792454400000,
-     "usdValue": 257.14213030084403
+     "usdValue": 256.31221836774836
     },
     {
-     "burnedKntqAmount": 1052.7579744449208,
-     "kntqAmount": 1053.4954211874824,
+     "burnedKntqAmount": 1049.360256596697,
+     "kntqAmount": 1050.0953232708855,
      "lockedKntqAmount": 0,
      "time": 1792540800000,
-     "usdValue": 398.6465231705848
+     "usdValue": 397.3599136745862
     },
     {
-     "burnedKntqAmount": 450.34902240901226,
-     "kntqAmount": 450.6644875217269,
+     "burnedKntqAmount": 448.8955459704452,
+     "kntqAmount": 449.2099929370428,
      "lockedKntqAmount": 0,
      "time": 1792627200000,
-     "usdValue": 178.37817778941627
+     "usdValue": 177.80247213520045
     },
     {
-     "burnedKntqAmount": 430.32935508995075,
-     "kntqAmount": 430.63079661375906,
+     "burnedKntqAmount": 428.94049101492465,
+     "kntqAmount": 429.24095965296954,
      "lockedKntqAmount": 0,
      "time": 1792713600000,
-     "usdValue": 175.77058947906988
+     "usdValue": 175.20329967119096
     },
     {
-     "burnedKntqAmount": 294.7315526930266,
-     "kntqAmount": 294.9380092617353,
+     "burnedKntqAmount": 293.780322988452,
+     "kntqAmount": 293.9861132300604,
      "lockedKntqAmount": 0,
      "time": 1792800000000,
-     "usdValue": 117.29791100960556
+     "usdValue": 116.91933852146379
     },
     {
-     "burnedKntqAmount": 290.7798520905223,
-     "kntqAmount": 290.9835405214495,
+     "burnedKntqAmount": 289.8413762799992,
+     "kntqAmount": 290.044407317837,
      "lockedKntqAmount": 0,
      "time": 1792886400000,
-     "usdValue": 109.93326734677986
+     "usdValue": 109.57846383671891
     },
     {
-     "burnedKntqAmount": 154.76813722903123,
-     "kntqAmount": 154.87655078998682,
+     "burnedKntqAmount": 154.26863166843293,
+     "kntqAmount": 154.37669533064636,
      "lockedKntqAmount": 0,
      "time": 1792972800000,
-     "usdValue": 60.6951925440566
+     "usdValue": 60.49930218367528
     },
     {
-     "burnedKntqAmount": 600.3828440786975,
-     "kntqAmount": 600.8034064298163,
+     "burnedKntqAmount": 598.4451418198577,
+     "kntqAmount": 598.864346829364,
      "lockedKntqAmount": 0,
      "time": 1793059200000,
-     "usdValue": 251.3528280700316
+     "usdValue": 250.5416007881054
     },
     {
-     "burnedKntqAmount": 161.32489649784225,
-     "kntqAmount": 161.4379030106232,
+     "burnedKntqAmount": 160.80422936114104,
+     "kntqAmount": 160.91687115168313,
      "lockedKntqAmount": 0,
      "time": 1793145600000,
-     "usdValue": 73.60514510653564
+     "usdValue": 73.36758859181873
     },
     {
-     "burnedKntqAmount": 507.96624824595,
-     "kntqAmount": 508.32207367424223,
+     "burnedKntqAmount": 506.3268154134696,
+     "kntqAmount": 506.68149243496947,
      "lockedKntqAmount": 0,
      "time": 1793232000000,
-     "usdValue": 237.95611545316228
+     "usdValue": 237.18812531659216
     },
     {
-     "burnedKntqAmount": 109.5810135262028,
-     "kntqAmount": 109.65777395171715,
+     "burnedKntqAmount": 109.22734689576882,
+     "kntqAmount": 109.30385958127631,
      "lockedKntqAmount": 0,
      "time": 1793318400000,
-     "usdValue": 57.33117978201794
+     "usdValue": 57.14614658584785
     },
     {
-     "burnedKntqAmount": 234.88235997896163,
-     "kntqAmount": 235.04689278106792,
+     "burnedKntqAmount": 234.1242902173393,
+     "kntqAmount": 234.28829199897186,
      "lockedKntqAmount": 0,
      "time": 1793404800000,
-     "usdValue": 124.95269575504942
+     "usdValue": 124.54941787460928
     },
     {
-     "burnedKntqAmount": 558.7422871875575,
-     "kntqAmount": 559.1336807324451,
+     "burnedKntqAmount": 556.9389775116223,
+     "kntqAmount": 557.3291078555982,
      "lockedKntqAmount": 0,
      "time": 1793491200000,
-     "usdValue": 308.1825193589561
+     "usdValue": 307.1878774070975
     },
     {
-     "burnedKntqAmount": 200.24715039052523,
-     "kntqAmount": 200.38742156497645,
+     "burnedKntqAmount": 199.60086384275854,
+     "kntqAmount": 199.7406822997908,
      "lockedKntqAmount": 0,
      "time": 1793577600000,
-     "usdValue": 92.65356494582875
+     "usdValue": 92.35453071482803
     },
     {
-     "burnedKntqAmount": 960.6727719204343,
-     "kntqAmount": 961.3457138788609,
+     "burnedKntqAmount": 957.5722539450869,
+     "kntqAmount": 958.2430240207461,
      "lockedKntqAmount": 0,
      "time": 1793664000000,
-     "usdValue": 442.49867423898627
+     "usdValue": 441.07053436280063
     },
     {
-     "burnedKntqAmount": 377.4754142589878,
-     "kntqAmount": 377.7398321173119,
+     "burnedKntqAmount": 376.2571333402708,
+     "kntqAmount": 376.52069780465393,
      "lockedKntqAmount": 0,
      "time": 1793750400000,
-     "usdValue": 187.76608849864104
+     "usdValue": 187.16008388440918
     },
     {
-     "burnedKntqAmount": 448.900548333349,
-     "kntqAmount": 449.2149988131917,
+     "burnedKntqAmount": 447.4517467643522,
+     "kntqAmount": 447.76518237274894,
      "lockedKntqAmount": 0,
      "time": 1793836800000,
-     "usdValue": 190.6702136605568
+     "usdValue": 190.0548361437817
     },
     {
-     "burnedKntqAmount": 349.1946165116988,
-     "kntqAmount": 349.4392239416644,
+     "burnedKntqAmount": 348.0676102958104,
+     "kntqAmount": 348.3114282688916,
      "lockedKntqAmount": 0,
      "time": 1793923200000,
-     "usdValue": 148.7613724558516
+     "usdValue": 148.2812533946913
     },
     {
-     "burnedKntqAmount": 249.26921892328482,
-     "kntqAmount": 249.44382956884394,
+     "burnedKntqAmount": 248.4647163740688,
+     "kntqAmount": 248.63876347347454,
      "lockedKntqAmount": 0,
      "time": 1794009600000,
-     "usdValue": 118.30974911809972
+     "usdValue": 117.92791097870267
     },
     {
-     "burnedKntqAmount": 370.39852113272406,
-     "kntqAmount": 370.6579816786105,
+     "burnedKntqAmount": 369.2030804932248,
+     "kntqAmount": 369.46170364462074,
      "lockedKntqAmount": 0,
      "time": 1794096000000,
-     "usdValue": 168.22555279461739
+     "usdValue": 167.68261417327
     },
     {
-     "burnedKntqAmount": 370.3620897911372,
-     "kntqAmount": 370.62152484139585,
+     "burnedKntqAmount": 369.16676673176795,
+     "kntqAmount": 369.42536446982183,
      "lockedKntqAmount": 0,
      "time": 1794182400000,
-     "usdValue": 148.81577205602315
+     "usdValue": 148.3354774231769
     },
     {
-     "burnedKntqAmount": 328.774643621916,
-     "kntqAmount": 329.0049470633377,
+     "burnedKntqAmount": 327.71354173354837,
+     "kntqAmount": 327.94310188341353,
      "lockedKntqAmount": 0,
      "time": 1794268800000,
-     "usdValue": 121.93744205510217
+     "usdValue": 121.54389573838505
     },
     {
-     "burnedKntqAmount": 300.13260521054593,
-     "kntqAmount": 300.34284518856157,
+     "burnedKntqAmount": 299.16394390917185,
+     "kntqAmount": 299.373505349344,
      "lockedKntqAmount": 0,
      "time": 1794355200000,
-     "usdValue": 99.01969624623025
+     "usdValue": 98.70011568029922
     },
     {
-     "burnedKntqAmount": 564.0327289814649,
-     "kntqAmount": 564.4278284306196,
+     "burnedKntqAmount": 562.2123446986926,
+     "kntqAmount": 562.6061689863355,
      "lockedKntqAmount": 0,
      "time": 1794441600000,
-     "usdValue": 178.45408539059153
+     "usdValue": 177.878134748812
     },
     {
-     "burnedKntqAmount": 420.54293757704835,
-     "kntqAmount": 420.83752381209155,
+     "burnedKntqAmount": 419.1856586205974,
+     "kntqAmount": 419.47929409494066,
      "lockedKntqAmount": 0,
      "time": 1794528000000,
-     "usdValue": 123.60264043676179
+     "usdValue": 123.20371978482277
     },
     {
-     "burnedKntqAmount": 1238.458055886893,
-     "kntqAmount": 1239.3255837287388,
+     "burnedKntqAmount": 1234.46100134738,
+     "kntqAmount": 1235.3257292913352,
      "lockedKntqAmount": 0,
      "time": 1794614400000,
-     "usdValue": 296.0100032584875
+     "usdValue": 295.0546474257715
     },
     {
-     "burnedKntqAmount": 1025.1535702084389,
-     "kntqAmount": 1025.8716803148204,
+     "burnedKntqAmount": 1021.8449440405828,
+     "kntqAmount": 1022.5607364865101,
      "lockedKntqAmount": 0,
      "time": 1794700800000,
-     "usdValue": 246.70845398749893
+     "usdValue": 245.91221616478094
     },
     {
-     "burnedKntqAmount": 392.68526982406354,
-     "kntqAmount": 392.9603420349374,
+     "burnedKntqAmount": 391.417899941903,
+     "kntqAmount": 391.69208437250535,
      "lockedKntqAmount": 0,
      "time": 1794787200000,
-     "usdValue": 93.12635897131742
+     "usdValue": 92.82579882387823
     },
     {
-     "burnedKntqAmount": 909.769881775671,
-     "kntqAmount": 910.4071667489105,
+     "burnedKntqAmount": 906.8336500489861,
+     "kntqAmount": 907.4688782203959,
      "lockedKntqAmount": 0,
      "time": 1794873600000,
-     "usdValue": 202.95025073365568
+     "usdValue": 202.29524007977503
     },
     {
-     "burnedKntqAmount": 381.8063517193983,
-     "kntqAmount": 382.07380335583235,
+     "burnedKntqAmount": 380.5740929407496,
+     "kntqAmount": 380.84068139189253,
      "lockedKntqAmount": 0,
      "time": 1794960000000,
-     "usdValue": 83.37254623308213
+     "usdValue": 83.10346597412007
     },
     {
-     "burnedKntqAmount": 628.7202639953562,
-     "kntqAmount": 629.1606764367974,
+     "burnedKntqAmount": 626.6911042887832,
+     "kntqAmount": 627.1300953235486,
      "lockedKntqAmount": 0,
      "time": 1795046400000,
-     "usdValue": 145.94292914610998
+     "usdValue": 145.47190645407738
     },
     {
-     "burnedKntqAmount": 812.3946764006721,
-     "kntqAmount": 812.9637509811173,
+     "burnedKntqAmount": 809.7727177370352,
+     "kntqAmount": 810.3399556609023,
      "lockedKntqAmount": 0,
      "time": 1795132800000,
-     "usdValue": 162.79813735827136
+     "usdValue": 162.27271541857866
     },
     {
-     "burnedKntqAmount": 8034.21203960288,
-     "kntqAmount": 8039.839927361402,
+     "burnedKntqAmount": 8008.2820668018985,
+     "kntqAmount": 8013.8917908654885,
      "lockedKntqAmount": 0,
      "time": 1795219200000,
-     "usdValue": 1311.6154658297755
+     "usdValue": 1307.3822998159003
     },
     {
-     "burnedKntqAmount": 4842.761915211898,
-     "kntqAmount": 4846.154223027462,
+     "burnedKntqAmount": 4827.1321703005,
+     "kntqAmount": 4830.51352963114,
      "lockedKntqAmount": 0,
      "time": 1795305600000,
-     "usdValue": 820.9860176922377
+     "usdValue": 818.3363309521055
     },
     {
-     "burnedKntqAmount": 652.1886164095503,
-     "kntqAmount": 652.645468188087,
+     "burnedKntqAmount": 650.0837138999763,
+     "kntqAmount": 650.5390912147905,
      "lockedKntqAmount": 0,
      "time": 1795392000000,
-     "usdValue": 109.6200949796352
+     "usdValue": 109.26630221598249
     },
     {
-     "burnedKntqAmount": 1035.2981558321721,
-     "kntqAmount": 1036.0233721425984,
+     "burnedKntqAmount": 1031.956788578071,
+     "kntqAmount": 1032.6796642931643,
      "lockedKntqAmount": 0,
      "time": 1795478400000,
-     "usdValue": 175.07516536368692
+     "usdValue": 174.5101199984874
     },
     {
-     "burnedKntqAmount": 2209.497073862528,
-     "kntqAmount": 2211.044805131684,
+     "burnedKntqAmount": 2202.3660448647006,
+     "kntqAmount": 2203.9087809172106,
      "lockedKntqAmount": 0,
      "time": 1795564800000,
-     "usdValue": 341.9175606178233
+     "usdValue": 340.8140406953598
+    },
+    {
+     "burnedKntqAmount": 1105.5494212172312,
+     "kntqAmount": 1106.3238478621365,
+     "lockedKntqAmount": 0,
+     "time": 1795651200000,
+     "usdValue": 170.12290300588148
     }
    ],
+   "isUnconfirmed": false,
    "kind": "project",
    "logoUrl": "https://admin.km.xyz/api/media/file/markets-xyz-logo.svg",
-   "poolShare": 0.04392390025864482,
+   "poolShare": 0.04378213831193424,
    "share": 100,
    "slug": "marketsxyz",
    "title": "Markets.xyz",
    "totals": {
-    "burnedKntqAmount": 135521.0339939281,
-    "kntqAmount": 299965.1901295717,
-    "lastTime": 1795564800000,
+    "burnedKntqAmount": 136189.19681044767,
+    "kntqAmount": 300103.3929989284,
+    "lastTime": 1795651200000,
     "lockedKntqAmount": 0,
-    "usdValue": 52711.33471803336
+    "usdValue": 52711.33471803334
    }
   },
   {
    "burnShare": null,
    "days": [],
+   "isUnconfirmed": false,
    "kind": "project",
    "logoUrl": "https://admin.km.xyz/api/media/file/project-161.svg",
    "poolShare": null,
@@ -1707,6 +1719,7 @@
   {
    "burnShare": null,
    "days": null,
+   "isUnconfirmed": false,
    "kind": "project",
    "logoUrl": "https://admin.km.xyz/api/media/file/elysium-project-oxley-v2.webp",
    "poolShare": null,
@@ -1747,6 +1760,7 @@
      "usdValue": 39983.4528753042
     }
    ],
+   "isUnconfirmed": false,
    "kind": "project",
    "logoUrl": "https://admin.km.xyz/api/media/file/elysium-project-ascend.webp",
    "poolShare": null,
@@ -1879,11 +1893,12 @@
     {
      "burnedKntqAmount": 0,
      "kntqAmount": 0,
-     "lockedKntqAmount": 595.1316755307505,
+     "lockedKntqAmount": 4396.6659357881135,
      "time": 1795651200000,
      "usdValue": 0
     }
    ],
+   "isUnconfirmed": false,
    "kind": "project",
    "logoUrl": "https://admin.km.xyz/api/media/file/elysium-project-montra.webp",
    "poolShare": null,
@@ -1894,13 +1909,14 @@
     "burnedKntqAmount": 0,
     "kntqAmount": 137652.88901208836,
     "lastTime": 1795651200000,
-    "lockedKntqAmount": 251663.43487753693,
+    "lockedKntqAmount": 255464.96913779428,
     "usdValue": 46763.3
    }
   },
   {
    "burnShare": null,
    "days": [],
+   "isUnconfirmed": false,
    "kind": "project",
    "logoUrl": "https://admin.km.xyz/api/media/file/elysium-project-dawn.webp",
    "poolShare": null,
@@ -1918,6 +1934,7 @@
   {
    "burnShare": null,
    "days": null,
+   "isUnconfirmed": false,
    "kind": "project",
    "logoUrl": "https://admin.km.xyz/api/media/file/elysium-project-nest.webp",
    "poolShare": null,
@@ -1979,13 +1996,14 @@
      "usdValue": 6762.74816651
     },
     {
-     "burnedKntqAmount": 0,
-     "kntqAmount": 0,
+     "burnedKntqAmount": 14056.20052406,
+     "kntqAmount": 14056.20052406,
      "lockedKntqAmount": 0,
      "time": 1795651200000,
-     "usdValue": 0
+     "usdValue": 2182.70536566
     }
    ],
+   "isUnconfirmed": false,
    "kind": "sequencer",
    "logoUrl": null,
    "poolShare": null,
@@ -1993,10 +2011,10 @@
    "slug": "elysium-sequencer",
    "title": "",
    "totals": {
-    "burnedKntqAmount": 329837.84393346,
-    "kntqAmount": 329837.84393346,
-    "usdValue": 54056.19691791,
-    "lastTime": 1795564800000,
+    "burnedKntqAmount": 343894.04445752,
+    "kntqAmount": 343894.04445752,
+    "usdValue": 56238.90228357,
+    "lastTime": 1795651200000,
     "lockedKntqAmount": 0
    }
   }
